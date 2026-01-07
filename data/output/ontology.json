@@ -1,0 +1,1159 @@
+{
+  "assets": [
+    {
+      "asset": "ABCB4",
+      "company_name": "Banco ABC Brasil S.A.",
+      "sector_screening": "Bancos",
+      "short_description": "Corporate-focused commercial bank.",
+      "long_description": "Banco ABC Brasil specializes in corporate and middle-market banking. Earnings are driven by lending spreads, credit quality, funding costs, and demand for structured financial solutions."
+    },
+    {
+      "asset": "ABEV3",
+      "company_name": "Ambev S.A.",
+      "sector_screening": "Alimentos e Bebidas",
+      "short_description": "Leading beverage company in Latin America.",
+      "long_description": "Ambev produces and distributes beer, soft drinks, and non-alcoholic beverages. Revenue is driven by brand portfolio strength, pricing power, consumption volumes, and operational scale across Brazil and other Latin American markets."
+    },
+    {
+      "asset": "AGRO3",
+      "company_name": "BrasilAgro – Companhia Brasileira de Propriedades Agrícolas",
+      "sector_screening": "Agronegócio",
+      "short_description": "Farmland owner and agricultural producer.",
+      "long_description": "BrasilAgro acquires, develops, and operates agricultural land. Revenue is driven by crop production, land appreciation, commodity prices, and productivity gains."
+    },
+    {
+      "asset": "ALOS3",
+      "company_name": "Allos S.A.",
+      "sector_screening": "Propriedades Comerciais",
+      "short_description": "Shopping mall owner and operator in Brazil.",
+      "long_description": "Allos operates and develops shopping centers across Brazil, generating revenue from rental income, parking, and services. Performance depends on consumer spending, tenant sales productivity, occupancy rates, and long-term trends in physical retail real estate."
+    },
+    {
+      "asset": "ALPA4",
+      "company_name": "Alpargatas S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Footwear and apparel brand owner.",
+      "long_description": "Alpargatas owns footwear and lifestyle brands with global presence. Revenue depends on brand strength, international sales, consumer demand, and supply chain efficiency in apparel manufacturing."
+    },
+    {
+      "asset": "ALUP11",
+      "company_name": "Alupar Investimento S.A.",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electric power transmission and generation holding.",
+      "long_description": "Alupar invests in electricity transmission and generation assets in Brazil and Latin America. Revenue is largely regulated and driven by long-term concessions and asset availability."
+    },
+    {
+      "asset": "AMOB3",
+      "company_name": "Automob Participações S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Automotive dealership holding company.",
+      "long_description": "Automob operates automotive dealerships representing multiple brands. Revenue depends on vehicle sales volumes, financing conditions, after-sales services, and consumer demand for new and used vehicles."
+    },
+    {
+      "asset": "ANIM3",
+      "company_name": "Ânima Holding S.A.",
+      "sector_screening": "Educação",
+      "short_description": "Private higher education services provider.",
+      "long_description": "Ânima operates universities and education brands focused on quality and professional training. Revenue depends on student enrollment, tuition pricing, and expansion of digital education offerings."
+    },
+    {
+      "asset": "ARML3",
+      "company_name": "Armac Locação, Logística e Serviços S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Heavy equipment rental and services company.",
+      "long_description": "Armac rents heavy machinery and provides services to agribusiness, mining, and infrastructure clients. Earnings depend on fleet utilization, long-term contracts, and capital efficiency."
+    },
+    {
+      "asset": "ASAI3",
+      "company_name": "Assaí Atacadista S.A.",
+      "sector_screening": "Alimentos e Bebidas",
+      "short_description": "Cash-and-carry wholesale food retailer.",
+      "long_description": "Assaí operates a cash-and-carry retail model serving small businesses and households. Earnings depend on store expansion, food inflation dynamics, operational efficiency, and resilient demand for essential consumer goods."
+    },
+    {
+      "asset": "AURE3",
+      "company_name": "Auren Energia S.A.",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Renewable energy generation company.",
+      "long_description": "Auren Energia operates renewable power generation assets, primarily hydro and wind. Revenue is driven by long-term power purchase agreements, energy prices, hydrological conditions, and expansion in Brazil’s clean energy market."
+    },
+    {
+      "asset": "AXIA3",
+      "company_name": "Axia Value Partners",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Investment holding company.",
+      "long_description": "Axia operates as an investment and asset management-focused company, with value creation driven by capital allocation decisions, portfolio performance, and exposure to Brazilian equity and alternative investment opportunities."
+    },
+    {
+      "asset": "AXIA6",
+      "company_name": "Axia Value Partners",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Preferred shares of investment holding company.",
+      "long_description": "Axia preferred shares represent exposure to an investment-focused company whose performance depends on portfolio returns, asset valuation, and strategic capital deployment across Brazilian financial markets."
+    },
+    {
+      "asset": "AZZA3",
+      "company_name": "Azzas 2154 S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Fashion and lifestyle retail company.",
+      "long_description": "Azzas 2154 operates apparel and lifestyle brands in Brazil. Revenue depends on consumer discretionary spending, brand positioning, supply chain efficiency, and omnichannel retail execution in a competitive fashion market."
+    },
+    {
+      "asset": "B3SA3",
+      "company_name": "B3 S.A. – Brasil, Bolsa, Balcão",
+      "sector_screening": "Fintech e Investimentos",
+      "short_description": "Operator of Brazil’s financial exchange infrastructure.",
+      "long_description": "B3 operates Brazil’s equity, derivatives, and fixed-income exchanges. Revenue is driven by trading volumes, listings, clearing services, and capital market activity tied to investor participation and financial market volatility."
+    },
+    {
+      "asset": "BBAS3",
+      "company_name": "Banco do Brasil S.A.",
+      "sector_screening": "Bancos",
+      "short_description": "State-controlled commercial bank.",
+      "long_description": "Banco do Brasil operates retail, corporate, agribusiness, and government banking. Earnings depend on credit volumes, agribusiness exposure, interest rates, and public policy priorities affecting the financial sector."
+    },
+    {
+      "asset": "BBDC3",
+      "company_name": "Banco Bradesco S.A.",
+      "sector_screening": "Bancos",
+      "short_description": "Major private commercial bank in Brazil.",
+      "long_description": "Bradesco provides retail and corporate banking, insurance, and asset management services. Revenue is driven by lending spreads, fee income, insurance premiums, and efficiency gains through digital banking adoption."
+    },
+    {
+      "asset": "BBDC4",
+      "company_name": "Banco Bradesco S.A.",
+      "sector_screening": "Bancos",
+      "short_description": "Preferred shares of large Brazilian bank.",
+      "long_description": "Bradesco preferred shares offer exposure to diversified financial services. Performance is influenced by credit growth, interest margins, asset quality, insurance operations, and competitive dynamics in Brazil’s banking sector."
+    },
+    {
+      "asset": "BBSE3",
+      "company_name": "BB Seguridade Participações S.A.",
+      "sector_screening": "Seguradoras",
+      "short_description": "Insurance and pension holding company.",
+      "long_description": "BB Seguridade operates insurance, pension, and capitalization businesses through partnerships. Earnings depend on premium growth, financial income, distribution via Banco do Brasil, and stability of Brazil’s insurance market."
+    },
+    {
+      "asset": "BEEF3",
+      "company_name": "Minerva S.A.",
+      "sector_screening": "Alimentos e Bebidas",
+      "short_description": "Beef exporter and meat processor.",
+      "long_description": "Minerva focuses on beef processing and exports. Revenue depends on global protein demand, cattle prices, export market access, and currency movements."
+    },
+    {
+      "asset": "BHIA3",
+      "company_name": "Casas Bahia S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Consumer electronics and furniture retailer.",
+      "long_description": "Casas Bahia operates physical and digital retail channels. Revenue depends on consumer credit availability, sales volumes, logistics execution, and omnichannel integration."
+    },
+    {
+      "asset": "BLAU3",
+      "company_name": "Blau Farmacêutica S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Specialty pharmaceutical manufacturer.",
+      "long_description": "Blau develops and manufactures high-complexity pharmaceuticals. Earnings are driven by hospital demand, product innovation, regulatory approvals, and expansion of specialty drug portfolios."
+    },
+    {
+      "asset": "BMOB3",
+      "company_name": "Bemobi Mobile Tech S.A.",
+      "sector_screening": "Tecnologia",
+      "short_description": "Mobile content and digital services company.",
+      "long_description": "Bemobi provides subscription-based digital services distributed via mobile carriers. Revenue depends on user engagement, partnerships with telecom operators, and growth in mobile digital consumption."
+    },
+    {
+      "asset": "BPAC11",
+      "company_name": "Banco BTG Pactual S.A.",
+      "sector_screening": "Fintech e Investimentos",
+      "short_description": "Investment bank and asset manager.",
+      "long_description": "BTG Pactual operates in investment banking, asset management, and wealth management. Revenue depends on capital market activity, asset inflows, trading performance, and advisory services in Brazil and globally."
+    },
+    {
+      "asset": "BPAN4",
+      "company_name": "Banco Pan S.A.",
+      "sector_screening": "Bancos",
+      "short_description": "Retail-focused consumer credit bank.",
+      "long_description": "Banco Pan provides consumer finance, credit cards, and digital banking services. Performance depends on credit growth, risk management, funding costs, and digital customer acquisition."
+    },
+    {
+      "asset": "BRAP4",
+      "company_name": "Bradespar S.A.",
+      "sector_screening": "Holdings",
+      "short_description": "Investment holding company with mining exposure.",
+      "long_description": "Bradespar is an investment holding company with a major stake in Vale. Its performance is closely linked to iron ore prices, dividend flows, and the valuation of underlying mining assets."
+    },
+    {
+      "asset": "BRAV3",
+      "company_name": "Brava Energia S.A.",
+      "sector_screening": "Petróleo",
+      "short_description": "Independent oil and gas producer.",
+      "long_description": "Brava Energia focuses on onshore and offshore oil and gas production in Brazil. Performance is driven by hydrocarbon prices, production efficiency, reserve development, and capital discipline in energy projects."
+    },
+    {
+      "asset": "BRBI11",
+      "company_name": "BRB Banco de Brasília Investimentos",
+      "sector_screening": "Bancos",
+      "short_description": "Investment and financial services holding.",
+      "long_description": "BRB Investimentos operates financial services and investment activities linked to Banco de Brasília. Performance depends on asset returns, financial intermediation, and capital allocation strategy."
+    },
+    {
+      "asset": "BRKM5",
+      "company_name": "Braskem S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Petrochemical producer of plastics and resins.",
+      "long_description": "Braskem manufactures thermoplastic resins and petrochemicals. Revenue depends on global demand, resin spreads, feedstock costs, currency movements, and sustainability initiatives within the chemical industry."
+    },
+    {
+      "asset": "BRSR6",
+      "company_name": "Banco do Estado do Rio Grande do Sul",
+      "sector_screening": "Bancos",
+      "short_description": "Regional state-controlled commercial bank.",
+      "long_description": "Banrisul operates retail and corporate banking in southern Brazil. Earnings depend on regional economic activity, credit demand, interest margins, and public-sector relationships."
+    },
+    {
+      "asset": "CAML3",
+      "company_name": "Camil Alimentos S.A.",
+      "sector_screening": "Alimentos e Bebidas",
+      "short_description": "Producer of rice, beans, and staple foods.",
+      "long_description": "Camil produces and distributes staple food products. Performance depends on commodity prices, consumer demand for basic foods, operational efficiency, and brand positioning."
+    },
+    {
+      "asset": "CASH3",
+      "company_name": "Méliuz S.A.",
+      "sector_screening": "Tecnologia",
+      "short_description": "Digital cashback and financial services platform.",
+      "long_description": "Méliuz operates a cashback and digital financial ecosystem. Revenue depends on user engagement, merchant partnerships, and monetization of financial services."
+    },
+    {
+      "asset": "CBAV3",
+      "company_name": "CBA – Companhia Brasileira de Alumínio",
+      "sector_screening": "Metais e Mineração",
+      "short_description": "Integrated aluminum producer.",
+      "long_description": "CBA produces primary aluminum and downstream products. Earnings depend on aluminum prices, energy costs, industrial demand, and sustainability initiatives."
+    },
+    {
+      "asset": "CEAB3",
+      "company_name": "C&A Modas S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Apparel retail chain.",
+      "long_description": "C&A operates clothing and fashion retail stores in Brazil. Revenue depends on consumer discretionary spending, inventory management, brand appeal, pricing strategy, and omnichannel retail capabilities."
+    },
+    {
+      "asset": "CMIG4",
+      "company_name": "Companhia Energética de Minas Gerais",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electric power generation and distribution utility.",
+      "long_description": "Cemig operates electricity generation, transmission, and distribution assets. Performance is influenced by regulated tariffs, hydrological conditions, operational efficiency, and capital investment in energy infrastructure."
+    },
+    {
+      "asset": "CMIN3",
+      "company_name": "CSN Mineração S.A.",
+      "sector_screening": "Metais e Mineração",
+      "short_description": "Iron ore mining company.",
+      "long_description": "CSN Mineração produces iron ore for domestic and export markets. Earnings are closely tied to iron ore prices, production volumes, logistics efficiency, and global steel industry demand."
+    },
+    {
+      "asset": "COGN3",
+      "company_name": "Cogna Educação S.A.",
+      "sector_screening": "Educação",
+      "short_description": "Private education services provider.",
+      "long_description": "Cogna operates higher education and digital learning platforms. Revenue depends on student enrollment, tuition pricing, distance learning adoption, and regulatory conditions in Brazil’s education sector."
+    },
+    {
+      "asset": "CPFE3",
+      "company_name": "CPFL Energia S.A.",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electric power generation and distribution company.",
+      "long_description": "CPFL Energia operates regulated electricity distribution and generation assets. Revenue is driven by concession frameworks, asset base growth, operational efficiency, and stability of Brazil’s power demand."
+    },
+    {
+      "asset": "CPLE3",
+      "company_name": "Companhia Paranaense de Energia",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electric power utility company.",
+      "long_description": "Copel operates electricity generation, transmission, and distribution assets. Performance depends on regulated tariffs, hydrological conditions, and operational efficiency."
+    },
+    {
+      "asset": "CPLE5",
+      "company_name": "Companhia Paranaense de Energia",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electric power utility company.",
+      "long_description": "Copel operates power generation, transmission, and distribution assets. Earnings are driven by regulated returns, energy demand, hydrological conditions, and investment execution within Brazil’s electricity market."
+    },
+    {
+      "asset": "CSAN3",
+      "company_name": "Cosan S.A.",
+      "sector_screening": "Açúcar e Álcool",
+      "short_description": "Conglomerate focused on energy and logistics.",
+      "long_description": "Cosan operates businesses in fuel distribution, sugar and ethanol, logistics, and energy. Performance depends on commodity prices, infrastructure assets, fuel demand, and strategic portfolio management."
+    },
+    {
+      "asset": "CSMG3",
+      "company_name": "Companhia de Saneamento de Minas Gerais",
+      "sector_screening": "Água e Saneamento",
+      "short_description": "Water and sanitation utility.",
+      "long_description": "Copasa provides water and sewage services in Minas Gerais. Revenue is driven by regulated tariffs, service coverage, infrastructure investments, and operational efficiency."
+    },
+    {
+      "asset": "CSNA3",
+      "company_name": "Companhia Siderúrgica Nacional",
+      "sector_screening": "Metais e Mineração",
+      "short_description": "Steel and mining company.",
+      "long_description": "CSN operates steel production, mining, cement, and logistics businesses. Earnings are linked to steel demand, iron ore prices, and infrastructure-related economic activity."
+    },
+    {
+      "asset": "CURY3",
+      "company_name": "Cury Construtora e Incorporadora S.A.",
+      "sector_screening": "Moradia",
+      "short_description": "Residential real estate developer.",
+      "long_description": "Cury develops residential real estate projects focused on middle-income housing. Revenue depends on housing demand, interest rates, construction execution, and access to mortgage credit in Brazil."
+    },
+    {
+      "asset": "CVCB3",
+      "company_name": "CVC Brasil Operadora e Agência de Viagens",
+      "sector_screening": "Varejo",
+      "short_description": "Travel agency and tourism services company.",
+      "long_description": "CVC operates tourism packages, travel agencies, and online booking platforms. Performance is influenced by consumer travel demand, airline capacity, macroeconomic conditions, and recovery in leisure tourism."
+    },
+    {
+      "asset": "CXSE3",
+      "company_name": "Caixa Seguridade Participações S.A.",
+      "sector_screening": "Seguradoras",
+      "short_description": "Insurance holding company linked to Caixa.",
+      "long_description": "Caixa Seguridade operates insurance, pension, and capitalization businesses. Earnings are driven by premium growth, financial income, distribution through Caixa Econômica Federal, and insurance market penetration."
+    },
+    {
+      "asset": "CYRE3",
+      "company_name": "Cyrela Brazil Realty S.A.",
+      "sector_screening": "Moradia",
+      "short_description": "High-end residential real estate developer.",
+      "long_description": "Cyrela develops residential real estate projects targeting mid- and high-income segments. Earnings depend on housing demand, interest rates, construction costs, project execution, and consumer confidence."
+    },
+    {
+      "asset": "DIRR3",
+      "company_name": "Direcional Engenharia S.A.",
+      "sector_screening": "Moradia",
+      "short_description": "Low- and middle-income housing developer.",
+      "long_description": "Direcional focuses on affordable housing developments, often linked to government programs. Revenue is driven by unit sales, construction efficiency, housing demand, and public financing incentives."
+    },
+    {
+      "asset": "DXCO3",
+      "company_name": "Dexco S.A.",
+      "sector_screening": "Moradia",
+      "short_description": "Building materials and home solutions company.",
+      "long_description": "Dexco produces wood panels, ceramics, and bathroom solutions. Performance depends on construction activity, housing demand, renovation trends, and operational scale."
+    },
+    {
+      "asset": "ECOR3",
+      "company_name": "EcoRodovias Infraestrutura e Logística",
+      "sector_screening": "Infraestrutura",
+      "short_description": "Toll road concession operator.",
+      "long_description": "EcoRodovias operates highway concessions. Earnings depend on traffic volumes, toll adjustments, concession terms, and infrastructure investment."
+    },
+    {
+      "asset": "EGIE3",
+      "company_name": "Engie Brasil Energia S.A.",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electric power generation company.",
+      "long_description": "Engie Brasil operates renewable and conventional power generation assets. Performance is driven by long-term energy contracts, hydrology, portfolio diversification, and disciplined capital allocation."
+    },
+    {
+      "asset": "EMBJ3",
+      "company_name": "Embraer S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Aircraft manufacturer and aerospace company.",
+      "long_description": "Embraer designs and manufactures commercial, executive, and defense aircraft. Revenue depends on aircraft deliveries, order backlog, aftermarket services, and global aviation demand."
+    },
+    {
+      "asset": "ENEV3",
+      "company_name": "Eneva S.A.",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Integrated energy generation company.",
+      "long_description": "Eneva operates thermal power plants integrated with natural gas production. Revenue depends on energy contracts, fuel availability, dispatch levels, and Brazil’s demand for reliable power generation."
+    },
+    {
+      "asset": "ENGI11",
+      "company_name": "Energisa S.A.",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electric power distribution holding company.",
+      "long_description": "Energisa operates electricity distribution concessions across Brazil. Earnings are driven by regulated returns, operational efficiency, loss reduction, and steady expansion of the regulated asset base."
+    },
+    {
+      "asset": "EQTL3",
+      "company_name": "Equatorial Energia S.A.",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electricity distribution and transmission operator.",
+      "long_description": "Equatorial Energia operates regulated power distribution and transmission assets. Revenue depends on regulatory frameworks, operational efficiency, service quality incentives, and expansion through acquisitions."
+    },
+    {
+      "asset": "EVEN3",
+      "company_name": "Even Construtora e Incorporadora",
+      "sector_screening": "Moradia",
+      "short_description": "Residential real estate developer.",
+      "long_description": "Even develops residential real estate projects focused on middle- and high-income segments. Revenue depends on housing demand, interest rates, and project execution."
+    },
+    {
+      "asset": "EZTC3",
+      "company_name": "Eztec Empreendimentos",
+      "sector_screening": "Moradia",
+      "short_description": "High-end real estate developer.",
+      "long_description": "Eztec develops premium residential and commercial properties. Performance depends on real estate demand, construction efficiency, and pricing power."
+    },
+    {
+      "asset": "FESA4",
+      "company_name": "Ferbasa",
+      "sector_screening": "Metais e Mineração",
+      "short_description": "Producer of ferroalloys.",
+      "long_description": "Ferbasa produces ferroalloys used in steelmaking. Revenue depends on steel industry demand, energy costs, and export market conditions."
+    },
+    {
+      "asset": "FLRY3",
+      "company_name": "Fleury S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Medical diagnostics and healthcare services provider.",
+      "long_description": "Fleury provides medical diagnostic services including laboratory and imaging exams. Earnings depend on healthcare demand, service mix, private insurance coverage, and expansion of healthcare service networks."
+    },
+    {
+      "asset": "FRAS3",
+      "company_name": "Fras-le S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Automotive friction materials manufacturer.",
+      "long_description": "Fras-le produces brake systems and friction materials. Performance depends on vehicle production, aftermarket demand, and global automotive trends."
+    },
+    {
+      "asset": "GFSA3",
+      "company_name": "Gafisa S.A.",
+      "sector_screening": "Moradia",
+      "short_description": "Residential real estate developer.",
+      "long_description": "Gafisa develops residential real estate projects. Earnings depend on housing demand, capital structure, project execution, and real estate market cycles."
+    },
+    {
+      "asset": "GGBR4",
+      "company_name": "Gerdau S.A.",
+      "sector_screening": "Metais e Mineração",
+      "short_description": "Steel producer focused on long steel products.",
+      "long_description": "Gerdau manufactures long steel products for construction and industrial markets. Performance depends on steel demand cycles, raw material costs, geographic diversification, and operational efficiency."
+    },
+    {
+      "asset": "GGPS3",
+      "company_name": "GPS Participações e Empreendimentos",
+      "sector_screening": "Infraestrutura",
+      "short_description": "Business services outsourcing company.",
+      "long_description": "GPS provides outsourced services such as facilities, logistics, and security. Revenue depends on long-term contracts, service quality, and corporate demand for outsourcing."
+    },
+    {
+      "asset": "GMAT3",
+      "company_name": "Grupo Mateus S.A.",
+      "sector_screening": "Alimentos e Bebidas",
+      "short_description": "Food retail and wholesale company.",
+      "long_description": "Grupo Mateus operates supermarkets and cash-and-carry stores. Revenue depends on food consumption, regional expansion, and operational efficiency."
+    },
+    {
+      "asset": "GOAU4",
+      "company_name": "Metalúrgica Gerdau S.A.",
+      "sector_screening": "Metais e Mineração",
+      "short_description": "Holding company with steel production exposure.",
+      "long_description": "Metalúrgica Gerdau is a holding company with a controlling stake in Gerdau. Earnings are linked to steel demand, dividend flows, and performance of underlying steel manufacturing operations."
+    },
+    {
+      "asset": "GRND3",
+      "company_name": "Grendene S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Footwear manufacturer and brand owner.",
+      "long_description": "Grendene manufactures and sells footwear brands. Earnings depend on consumer demand, export markets, brand strength, and cost management."
+    },
+    {
+      "asset": "GUAR3",
+      "company_name": "Guararapes Confecções S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Apparel manufacturing and retail company.",
+      "long_description": "Guararapes operates apparel manufacturing and retail operations. Revenue depends on fashion demand, credit availability, and efficiency in retail operations."
+    },
+    {
+      "asset": "HAPV3",
+      "company_name": "Hapvida Participações e Investimentos S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Integrated healthcare and health insurance provider.",
+      "long_description": "Hapvida operates health insurance plans and healthcare facilities. Revenue depends on membership growth, medical cost management, vertical integration efficiency, and healthcare utilization trends."
+    },
+    {
+      "asset": "HBSA3",
+      "company_name": "Hidrovias do Brasil",
+      "sector_screening": "Infraestrutura",
+      "short_description": "Waterway logistics and transportation company.",
+      "long_description": "Hidrovias do Brasil operates river logistics solutions. Earnings depend on agricultural exports, logistics efficiency, and infrastructure utilization."
+    },
+    {
+      "asset": "HYPE3",
+      "company_name": "Hypera S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Pharmaceutical company focused on branded medicines.",
+      "long_description": "Hypera develops and markets branded pharmaceuticals in Brazil. Performance is driven by product portfolio strength, marketing execution, regulatory approvals, and demand for prescription and OTC medicines."
+    },
+    {
+      "asset": "IGTI11",
+      "company_name": "Iguatemi S.A.",
+      "sector_screening": "Propriedades Comerciais",
+      "short_description": "Premium shopping mall operator.",
+      "long_description": "Iguatemi owns and manages high-end shopping centers targeting affluent consumers. Revenue depends on rental income, tenant sales performance, occupancy levels, and discretionary consumption."
+    },
+    {
+      "asset": "INBR32",
+      "company_name": "Inter & Co Inc. BDR",
+      "sector_screening": "Fintech e Investimentos",
+      "short_description": "Digital banking and financial services platform.",
+      "long_description": "Inter provides digital banking, investments, and financial services. Performance depends on user growth, monetization, and expansion of digital ecosystems."
+    },
+    {
+      "asset": "INTB3",
+      "company_name": "Intelbras S.A.",
+      "sector_screening": "Tecnologia",
+      "short_description": "Electronics and security solutions provider.",
+      "long_description": "Intelbras develops electronic security, networking, and communication solutions. Revenue depends on technology adoption, construction activity, and corporate demand."
+    },
+    {
+      "asset": "IRBR3",
+      "company_name": "IRB Brasil Resseguros S.A.",
+      "sector_screening": "Seguradoras",
+      "short_description": "Reinsurance company.",
+      "long_description": "IRB Brasil Resseguros provides reinsurance solutions in Brazil and abroad. Earnings depend on underwriting discipline, claims management, financial investments, and exposure to catastrophic risk."
+    },
+    {
+      "asset": "ISAE4",
+      "company_name": "Isa Energia Brasil S.A.",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electric power transmission company.",
+      "long_description": "ISA Energia Brasil operates electricity transmission assets under long-term concessions. Revenue is regulated and driven by inflation-linked returns, asset availability, and expansion of transmission networks."
+    },
+    {
+      "asset": "ITSA4",
+      "company_name": "Itaúsa S.A.",
+      "sector_screening": "Holdings",
+      "short_description": "Investment holding company with banking exposure.",
+      "long_description": "Itaúsa is a holding company with major stakes in financial and industrial businesses, primarily Itaú Unibanco. Performance depends on dividend income, portfolio valuation, and capital allocation strategy."
+    },
+    {
+      "asset": "ITUB4",
+      "company_name": "Itaú Unibanco Holding S.A.",
+      "sector_screening": "Bancos",
+      "short_description": "Largest private bank in Brazil.",
+      "long_description": "Itaú Unibanco provides retail, corporate, and investment banking services. Revenue is driven by credit growth, interest margins, fee income, and digital transformation initiatives."
+    },
+    {
+      "asset": "JALL3",
+      "company_name": "Jalles Machado S.A.",
+      "sector_screening": "Açúcar e Álcool",
+      "short_description": "Sugar, ethanol, and bioenergy producer.",
+      "long_description": "Jalles Machado operates sugarcane-based bioenergy businesses. Performance depends on sugar and ethanol prices, crop yields, and energy demand."
+    },
+    {
+      "asset": "JBSS32",
+      "company_name": "JBS S.A. BDR",
+      "sector_screening": "Alimentos e Bebidas",
+      "short_description": "Global protein producer.",
+      "long_description": "JBS operates global beef, poultry, and pork production. Revenue depends on protein demand, export markets, and livestock costs."
+    },
+    {
+      "asset": "JHSF3",
+      "company_name": "JHSF Participações S.A.",
+      "sector_screening": "Moradia",
+      "short_description": "High-end real estate and retail developer.",
+      "long_description": "JHSF develops luxury real estate, shopping centers, and hospitality assets. Earnings depend on high-income consumption, asset monetization, and premium real estate demand."
+    },
+    {
+      "asset": "JSLG3",
+      "company_name": "JSL S.A.",
+      "sector_screening": "Infraestrutura",
+      "short_description": "Logistics and supply chain services provider.",
+      "long_description": "JSL provides integrated logistics and fleet management services. Revenue depends on long-term contracts, operational efficiency, and demand for outsourced logistics."
+    },
+    {
+      "asset": "KEPL3",
+      "company_name": "Kepler Weber S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Grain storage and handling equipment manufacturer.",
+      "long_description": "Kepler Weber manufactures grain silos and storage solutions. Performance depends on agricultural investment cycles and grain production volumes."
+    },
+    {
+      "asset": "KLBN11",
+      "company_name": "Klabin S.A.",
+      "sector_screening": "Papel e Celulose",
+      "short_description": "Integrated paper, pulp, and packaging producer.",
+      "long_description": "Klabin operates forestry assets and produces pulp, paper, and packaging products. Earnings depend on export demand, pulp prices, sustainable forestry operations, and packaging consumption trends."
+    },
+    {
+      "asset": "LAVV3",
+      "company_name": "Lavvi Empreendimentos Imobiliários",
+      "sector_screening": "Moradia",
+      "short_description": "Residential real estate developer.",
+      "long_description": "Lavvi develops residential real estate projects targeting middle- and high-income buyers. Revenue depends on housing demand and project execution."
+    },
+    {
+      "asset": "LEVE3",
+      "company_name": "Mahle Metal Leve S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Automotive engine components manufacturer.",
+      "long_description": "Mahle Metal Leve produces engine components. Performance depends on vehicle production volumes and automotive aftermarket demand."
+    },
+    {
+      "asset": "LJQQ3",
+      "company_name": "Lojas Quero-Quero S.A.",
+      "sector_screening": "Moradia",
+      "short_description": "Building materials and furniture retailer.",
+      "long_description": "Quero-Quero operates retail stores focused on home improvement and furniture. Earnings depend on construction demand, consumer credit, and regional economic activity."
+    },
+    {
+      "asset": "LOGG3",
+      "company_name": "Log Commercial Properties",
+      "sector_screening": "Propriedades Comerciais",
+      "short_description": "Logistics real estate developer.",
+      "long_description": "LOG develops and leases logistics warehouses. Earnings depend on e-commerce growth, occupancy rates, and industrial real estate demand."
+    },
+    {
+      "asset": "LREN3",
+      "company_name": "Lojas Renner S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Fashion apparel retail chain.",
+      "long_description": "Lojas Renner operates apparel and lifestyle retail stores. Performance depends on consumer spending, brand positioning, inventory turnover, and omnichannel retail execution."
+    },
+    {
+      "asset": "LWSA3",
+      "company_name": "Locaweb Serviços de Internet",
+      "sector_screening": "Tecnologia",
+      "short_description": "Cloud, hosting, and digital services provider.",
+      "long_description": "Locaweb provides cloud hosting, e-commerce, and digital solutions. Revenue depends on SME digitalization and subscription-based services."
+    },
+    {
+      "asset": "MBRF3",
+      "company_name": "BRF S.A.",
+      "sector_screening": "Alimentos e Bebidas",
+      "short_description": "Food company focused on poultry and pork.",
+      "long_description": "BRF produces processed foods and animal protein products. Performance is driven by feed costs, export demand, brand strength, and operational efficiency in global protein markets."
+    },
+    {
+      "asset": "MDIA3",
+      "company_name": "M. Dias Branco S.A.",
+      "sector_screening": "Alimentos e Bebidas",
+      "short_description": "Pasta, biscuit, and food manufacturer.",
+      "long_description": "M. Dias Branco produces pasta, biscuits, and packaged foods. Performance depends on staple food demand, commodity prices, and operational efficiency."
+    },
+    {
+      "asset": "MDNE3",
+      "company_name": "Moura Dubeux Engenharia",
+      "sector_screening": "Moradia",
+      "short_description": "Residential real estate developer.",
+      "long_description": "Moura Dubeux develops residential and commercial real estate in northeastern Brazil. Performance depends on regional housing demand and project execution."
+    },
+    {
+      "asset": "MELI34",
+      "company_name": "MercadoLibre Inc. BDR",
+      "sector_screening": "Varejo",
+      "short_description": "E-commerce and fintech platform.",
+      "long_description": "MercadoLibre operates e-commerce and digital payments platforms. Performance depends on online retail growth, fintech adoption, and logistics scale."
+    },
+    {
+      "asset": "MGLU3",
+      "company_name": "Magazine Luiza S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Omnichannel retailer and digital platform.",
+      "long_description": "Magazine Luiza combines physical retail with e-commerce and digital services. Earnings are influenced by consumer demand, logistics efficiency, marketplace growth, and fintech integration."
+    },
+    {
+      "asset": "MILS3",
+      "company_name": "Mills Locação",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Equipment rental and engineering services company.",
+      "long_description": "Mills rents equipment and provides engineering services. Revenue depends on construction activity, infrastructure investment, and fleet utilization."
+    },
+    {
+      "asset": "MLAS3",
+      "company_name": "Multilaser Industrial S.A.",
+      "sector_screening": "Tecnologia",
+      "short_description": "Consumer electronics and accessories manufacturer.",
+      "long_description": "Multilaser develops and distributes consumer electronics and accessories. Earnings depend on consumer demand, product diversification, and retail distribution."
+    },
+    {
+      "asset": "MOTV3",
+      "company_name": "Motiva Infraestrutura",
+      "sector_screening": "Infraestrutura",
+      "short_description": "Infrastructure and logistics company.",
+      "long_description": "Motiva operates infrastructure and logistics assets. Performance depends on concession contracts, traffic volumes, operational efficiency, and long-term infrastructure investment trends."
+    },
+    {
+      "asset": "MOVI3",
+      "company_name": "Movida Participações S.A.",
+      "sector_screening": "Aluguel de carros",
+      "short_description": "Car rental and fleet services company.",
+      "long_description": "Movida operates car rental and fleet management services. Revenue depends on fleet utilization, pricing, and demand for mobility solutions."
+    },
+    {
+      "asset": "MRVE3",
+      "company_name": "MRV Engenharia e Participações S.A.",
+      "sector_screening": "Moradia",
+      "short_description": "Affordable housing real estate developer.",
+      "long_description": "MRV focuses on low-income housing developments, often supported by government programs. Revenue depends on housing demand, credit availability, and construction execution."
+    },
+    {
+      "asset": "MULT3",
+      "company_name": "Multiplan Empreendimentos Imobiliários S.A.",
+      "sector_screening": "Propriedades Comerciais",
+      "short_description": "Shopping mall developer and operator.",
+      "long_description": "Multiplan owns and operates shopping centers. Earnings depend on rental income, tenant sales performance, consumer traffic, and commercial real estate market conditions."
+    },
+    {
+      "asset": "MYPK3",
+      "company_name": "Iochpe-Maxion S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Automotive wheels and components manufacturer.",
+      "long_description": "Iochpe-Maxion produces wheels and automotive components. Performance depends on global vehicle production, OEM demand, and operational efficiency."
+    },
+    {
+      "asset": "NATU3",
+      "company_name": "Natura &Co Holding S.A.",
+      "sector_screening": "Consumo não Cíclico",
+      "short_description": "Cosmetics and personal care company.",
+      "long_description": "Natura produces and sells cosmetics and personal care products. Revenue is driven by brand equity, direct sales networks, sustainability positioning, and consumer demand in beauty markets."
+    },
+    {
+      "asset": "ODPV3",
+      "company_name": "Odontoprev S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Dental insurance provider.",
+      "long_description": "Odontoprev provides dental insurance plans. Revenue depends on membership growth, cost management, and demand for private dental healthcare."
+    },
+    {
+      "asset": "ONCO3",
+      "company_name": "Oncoclínicas do Brasil",
+      "sector_screening": "Saúde",
+      "short_description": "Oncology-focused healthcare services provider.",
+      "long_description": "Oncoclínicas operates oncology clinics and cancer treatment centers. Performance depends on healthcare demand, service complexity, and expansion of specialized care."
+    },
+    {
+      "asset": "ORVR3",
+      "company_name": "Orizon Valorização de Resíduos",
+      "sector_screening": "Água e Saneamento",
+      "short_description": "Waste management and landfill operator.",
+      "long_description": "Orizon operates waste treatment and landfill assets. Revenue depends on waste volumes, environmental services demand, and regulatory frameworks."
+    },
+    {
+      "asset": "PAGS34",
+      "company_name": "PagSeguro Digital Ltd. BDR",
+      "sector_screening": "Serviços Financeiros",
+      "short_description": "Digital payments and financial services company.",
+      "long_description": "PagSeguro provides payment acquiring and digital financial services. Performance depends on transaction volumes, merchant growth, and fintech competition."
+    },
+    {
+      "asset": "PCAR3",
+      "company_name": "Companhia Brasileira de Distribuição",
+      "sector_screening": "Alimentos e Bebidas",
+      "short_description": "Food retail and supermarket operator.",
+      "long_description": "Pão de Açúcar operates supermarkets and grocery retail formats. Performance depends on food consumption, pricing strategy, operational efficiency, and competitive dynamics in food retail."
+    },
+    {
+      "asset": "PETR3",
+      "company_name": "Petróleo Brasileiro S.A. – Petrobras",
+      "sector_screening": "Petróleo",
+      "short_description": "Integrated oil and gas company.",
+      "long_description": "Petrobras operates across oil and gas exploration, production, refining, and distribution. Earnings depend on crude prices, production volumes, fuel pricing policy, and capital investment decisions."
+    },
+    {
+      "asset": "PETR4",
+      "company_name": "Petróleo Brasileiro S.A. – Petrobras",
+      "sector_screening": "Petróleo",
+      "short_description": "Preferred shares of oil and gas producer.",
+      "long_description": "Petrobras preferred shares provide exposure to Brazil’s dominant energy company. Performance is influenced by oil prices, refining margins, government policy, and dividend distribution."
+    },
+    {
+      "asset": "PETZ3",
+      "company_name": "Petz S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Pet products and services retailer.",
+      "long_description": "Petz operates pet retail stores and services. Revenue depends on pet ownership trends, consumer spending, and omnichannel retail growth."
+    },
+    {
+      "asset": "PGMN3",
+      "company_name": "Pague Menos S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Pharmacy retail chain.",
+      "long_description": "Pague Menos operates a nationwide drugstore network. Earnings depend on store expansion, pharmaceutical demand, and healthcare retail efficiency."
+    },
+    {
+      "asset": "PLPL3",
+      "company_name": "Plano & Plano Desenvolvimento Imobiliário",
+      "sector_screening": "Moradia",
+      "short_description": "Affordable housing real estate developer.",
+      "long_description": "Plano & Plano develops residential housing focused on affordable segments. Performance depends on housing demand, financing availability, and construction execution."
+    },
+    {
+      "asset": "PNVL3",
+      "company_name": "Dimed S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Pharmaceutical distribution and retail company.",
+      "long_description": "Dimed operates drug distribution and pharmacy retail. Revenue depends on pharmaceutical demand, logistics efficiency, retail expansion, and healthcare consumption."
+    },
+    {
+      "asset": "POMO4",
+      "company_name": "Marcopolo S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Bus body manufacturer.",
+      "long_description": "Marcopolo manufactures bus bodies for urban and long-distance transport. Revenue depends on public transportation investment, fleet renewal cycles, export demand, and mobility trends."
+    },
+    {
+      "asset": "POSI3",
+      "company_name": "Positivo Tecnologia S.A.",
+      "sector_screening": "Tecnologia",
+      "short_description": "Computer and technology hardware manufacturer.",
+      "long_description": "Positivo manufactures computers and technology devices. Revenue depends on corporate and education demand, government contracts, and technology adoption."
+    },
+    {
+      "asset": "PRIO3",
+      "company_name": "PRIO S.A.",
+      "sector_screening": "Petróleo",
+      "short_description": "Independent offshore oil producer.",
+      "long_description": "PRIO operates offshore oil fields with a focus on efficiency and asset revitalization. Performance depends on oil prices, production growth, and disciplined capital allocation."
+    },
+    {
+      "asset": "PRNR3",
+      "company_name": "Priner Serviços Industriais",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Industrial maintenance services provider.",
+      "long_description": "Priner provides industrial maintenance and inspection services. Earnings depend on industrial activity, long-term contracts, and infrastructure maintenance demand."
+    },
+    {
+      "asset": "PSSA3",
+      "company_name": "Porto Seguro S.A.",
+      "sector_screening": "Seguradoras",
+      "short_description": "Insurance and financial services company.",
+      "long_description": "Porto Seguro operates insurance, health, and financial services businesses. Earnings depend on underwriting performance, claims management, premium growth, and cross-selling financial products."
+    },
+    {
+      "asset": "QUAL3",
+      "company_name": "Qualicorp Consultoria e Corretora de Seguros",
+      "sector_screening": "Saúde",
+      "short_description": "Health insurance brokerage platform.",
+      "long_description": "Qualicorp intermediates collective health insurance plans. Revenue depends on beneficiary base, commissions, regulatory environment, and healthcare demand."
+    },
+    {
+      "asset": "RADL3",
+      "company_name": "Raia Drogasil S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Pharmacy retail chain.",
+      "long_description": "Raia Drogasil operates a nationwide pharmacy network. Revenue is driven by store expansion, pharmaceutical demand, private label sales, and efficiency in healthcare retail."
+    },
+    {
+      "asset": "RAIL3",
+      "company_name": "Rumo S.A.",
+      "sector_screening": "Infraestrutura",
+      "short_description": "Railway logistics operator.",
+      "long_description": "Rumo operates railway concessions focused on agricultural and industrial logistics. Revenue depends on freight volumes, concession contracts, infrastructure investment, and export demand."
+    },
+    {
+      "asset": "RAIZ4",
+      "company_name": "Raízen S.A.",
+      "sector_screening": "Açúcar e Álcool",
+      "short_description": "Integrated energy and biofuels company.",
+      "long_description": "Raízen operates fuel distribution, sugar, ethanol, and renewable energy businesses. Performance depends on commodity prices, fuel demand, bioenergy production, and logistics efficiency."
+    },
+    {
+      "asset": "RANI3",
+      "company_name": "Irani Papel e Embalagem",
+      "sector_screening": "Papel e Celulose",
+      "short_description": "Paper and packaging manufacturer.",
+      "long_description": "Irani produces paper and packaging solutions. Revenue depends on packaging demand, paper prices, and industrial consumption."
+    },
+    {
+      "asset": "RAPT4",
+      "company_name": "Randon Implementos e Participações",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Commercial vehicle equipment manufacturer.",
+      "long_description": "Randon manufactures trailers, axles, and auto parts. Performance depends on freight demand, logistics investment, and vehicle production cycles."
+    },
+    {
+      "asset": "RCSL3",
+      "company_name": "Recrusul S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Steel products manufacturer.",
+      "long_description": "Recrusul produces steel products for infrastructure and industrial use. Revenue depends on construction activity and steel demand."
+    },
+    {
+      "asset": "RCSL4",
+      "company_name": "Recrusul S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Preferred shares of steel products manufacturer.",
+      "long_description": "Recrusul preferred shares represent exposure to steel manufacturing operations. Performance depends on industrial demand and operational efficiency."
+    },
+    {
+      "asset": "RDOR3",
+      "company_name": "Rede D’Or São Luiz S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Private hospital network operator.",
+      "long_description": "Rede D’Or operates hospitals and healthcare facilities. Earnings depend on healthcare demand, medical service mix, operational efficiency, and expansion of hospital capacity."
+    },
+    {
+      "asset": "RECV3",
+      "company_name": "PetroRecôncavo S.A.",
+      "sector_screening": "Petróleo",
+      "short_description": "Independent onshore oil and gas producer.",
+      "long_description": "PetroRecôncavo focuses on mature onshore oil and gas fields. Revenue depends on production efficiency, operating costs, oil prices, and reserve development."
+    },
+    {
+      "asset": "RENT3",
+      "company_name": "Localiza Rent a Car S.A.",
+      "sector_screening": "Aluguel de carros",
+      "short_description": "Car rental and fleet management company.",
+      "long_description": "Localiza operates car rental, fleet management, and used vehicle sales. Revenue depends on fleet utilization, pricing, resale values, and demand for mobility solutions."
+    },
+    {
+      "asset": "ROXO34",
+      "company_name": "Nu Holdings Ltd. BDR",
+      "sector_screening": "Fintech e Investimentos",
+      "short_description": "Digital financial services and banking platform.",
+      "long_description": "Nu provides digital banking and financial services. Revenue depends on customer growth, credit performance, and monetization of financial products."
+    },
+    {
+      "asset": "SANB11",
+      "company_name": "Banco Santander Brasil S.A.",
+      "sector_screening": "Bancos",
+      "short_description": "Brazilian subsidiary of global banking group.",
+      "long_description": "Santander Brasil provides retail and corporate banking services. Performance depends on credit growth, interest margins, fee income, and integration with global banking operations."
+    },
+    {
+      "asset": "SAPR11",
+      "company_name": "Companhia de Saneamento do Paraná",
+      "sector_screening": "Água e Saneamento",
+      "short_description": "Water and sanitation utility.",
+      "long_description": "Sanepar provides water and sewage services in Paraná. Revenue is driven by regulated tariffs, infrastructure investment, and service coverage expansion."
+    },
+    {
+      "asset": "SBFG3",
+      "company_name": "Grupo SBF S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Sporting goods retail and distribution group.",
+      "long_description": "Grupo SBF operates sporting goods retail and distribution businesses. Performance depends on consumer spending, brand partnerships, and omnichannel execution."
+    },
+    {
+      "asset": "SBSP3",
+      "company_name": "Companhia de Saneamento Básico do Estado de São Paulo",
+      "sector_screening": "Água e Saneamento",
+      "short_description": "Water and sanitation utility.",
+      "long_description": "Sabesp provides water supply and sanitation services. Revenue is driven by regulated tariffs, service coverage expansion, operational efficiency, and infrastructure investment."
+    },
+    {
+      "asset": "SEER3",
+      "company_name": "Ser Educacional S.A.",
+      "sector_screening": "Educação",
+      "short_description": "Private higher education company.",
+      "long_description": "Ser Educacional operates universities and education centers. Revenue depends on student enrollment, tuition pricing, and regulatory conditions."
+    },
+    {
+      "asset": "SIMH3",
+      "company_name": "Simpar S.A.",
+      "sector_screening": "Holdings",
+      "short_description": "Holding company focused on logistics and mobility.",
+      "long_description": "Simpar controls companies in logistics, mobility, and infrastructure. Earnings depend on portfolio performance, capital allocation, and economic activity."
+    },
+    {
+      "asset": "SLCE3",
+      "company_name": "SLC Agrícola S.A.",
+      "sector_screening": "Agronegócio",
+      "short_description": "Large-scale agricultural producer.",
+      "long_description": "SLC Agrícola produces soybeans, corn, and cotton. Revenue depends on crop yields, commodity prices, weather conditions, and agricultural input costs."
+    },
+    {
+      "asset": "SMFT3",
+      "company_name": "Smart Fit S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Fitness center and gym operator.",
+      "long_description": "Smart Fit operates low-cost fitness centers across Latin America. Performance depends on membership growth, retention rates, operational scale, and consumer health trends."
+    },
+    {
+      "asset": "SMTO3",
+      "company_name": "São Martinho S.A.",
+      "sector_screening": "Açúcar e Álcool",
+      "short_description": "Sugar, ethanol, and bioenergy producer.",
+      "long_description": "São Martinho produces sugar, ethanol, and bioenergy from sugarcane. Performance depends on commodity prices, agricultural yields, and energy market conditions."
+    },
+    {
+      "asset": "SOJA3",
+      "company_name": "Boa Safra Sementes S.A.",
+      "sector_screening": "Agronegócio",
+      "short_description": "Soybean seed producer.",
+      "long_description": "Boa Safra produces and commercializes soybean seeds. Revenue depends on planted area, agricultural cycles, seed technology adoption, and demand from Brazil’s agribusiness sector."
+    },
+    {
+      "asset": "STOC34",
+      "company_name": "StoneCo Ltd. BDR",
+      "sector_screening": "Serviços Financeiros",
+      "short_description": "Merchant acquiring and fintech platform.",
+      "long_description": "StoneCo provides payment processing and financial solutions for merchants. Earnings depend on transaction growth, service adoption, and competitive fintech dynamics."
+    },
+    {
+      "asset": "SUZB3",
+      "company_name": "Suzano S.A.",
+      "sector_screening": "Papel e Celulose",
+      "short_description": "Global producer of eucalyptus pulp.",
+      "long_description": "Suzano produces market pulp for global paper and packaging industries. Earnings depend on pulp prices, foreign exchange rates, forestry productivity, and global demand cycles."
+    },
+    {
+      "asset": "SYNE3",
+      "company_name": "Syn Prop & Tech S.A.",
+      "sector_screening": "Propriedades Comerciais",
+      "short_description": "Commercial real estate and technology-focused company.",
+      "long_description": "Syn develops and manages commercial real estate assets. Revenue depends on occupancy rates, rental income, and demand for office and retail spaces."
+    },
+    {
+      "asset": "TAEE11",
+      "company_name": "Transmissora Aliança de Energia Elétrica",
+      "sector_screening": "Energia Elétrica",
+      "short_description": "Electricity transmission company.",
+      "long_description": "Taesa operates electricity transmission assets under long-term concessions. Revenue is predictable and regulated, driven by inflation-adjusted returns and system availability."
+    },
+    {
+      "asset": "TEND3",
+      "company_name": "Construtora Tenda S.A.",
+      "sector_screening": "Moradia",
+      "short_description": "Affordable housing real estate developer.",
+      "long_description": "Tenda develops low-income residential housing. Revenue depends on housing demand, government programs, and construction efficiency."
+    },
+    {
+      "asset": "TFCO4",
+      "company_name": "Track & Field Co. S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Premium sportswear and lifestyle brand.",
+      "long_description": "Track & Field designs and sells sportswear and lifestyle apparel. Performance depends on brand positioning, consumer spending, and retail expansion."
+    },
+    {
+      "asset": "TGMA3",
+      "company_name": "Tegma Gestão Logística",
+      "sector_screening": "Infraestrutura",
+      "short_description": "Automotive and general cargo logistics provider.",
+      "long_description": "Tegma provides logistics services focused on vehicle transportation. Performance depends on automotive production volumes and logistics demand."
+    },
+    {
+      "asset": "TIMS3",
+      "company_name": "TIM S.A.",
+      "sector_screening": "Telecom",
+      "short_description": "Mobile telecommunications operator.",
+      "long_description": "TIM provides mobile telecommunications services across Brazil. Performance depends on subscriber growth, data consumption, network quality, and competitive pricing."
+    },
+    {
+      "asset": "TOTS3",
+      "company_name": "Totvs S.A.",
+      "sector_screening": "Tecnologia",
+      "short_description": "Enterprise software and technology company.",
+      "long_description": "Totvs provides ERP software and digital solutions for businesses. Revenue depends on subscription growth, software adoption, and digital transformation trends in Brazilian enterprises."
+    },
+    {
+      "asset": "TTEN3",
+      "company_name": "3tentos Agroindustrial S.A.",
+      "sector_screening": "Agronegócio",
+      "short_description": "Agribusiness company focused on grains and inputs.",
+      "long_description": "3tentos operates in grain origination, agricultural inputs, and industrial processing. Revenue depends on crop volumes, commodity prices, farmer demand, and efficiency across storage, logistics, and processing operations."
+    },
+    {
+      "asset": "TUPY3",
+      "company_name": "Tupy S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Cast iron components manufacturer.",
+      "long_description": "Tupy produces cast iron components for engines and machinery. Earnings depend on automotive and industrial demand, exports, and cost efficiency."
+    },
+    {
+      "asset": "UGPA3",
+      "company_name": "Ultrapar Participações S.A.",
+      "sector_screening": "Petróleo",
+      "short_description": "Fuel distribution and industrial conglomerate.",
+      "long_description": "Ultrapar operates fuel distribution, chemicals, and logistics businesses. Earnings depend on fuel demand, margins, industrial activity, and operational efficiency."
+    },
+    {
+      "asset": "UNIP6",
+      "company_name": "Unipar Carbocloro S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Chemical and petrochemical producer.",
+      "long_description": "Unipar produces chlorine, caustic soda, and PVC. Performance depends on industrial demand, chemical prices, and energy costs."
+    },
+    {
+      "asset": "USIM5",
+      "company_name": "Usinas Siderúrgicas de Minas Gerais",
+      "sector_screening": "Metais e Mineração",
+      "short_description": "Flat steel producer.",
+      "long_description": "Usiminas produces flat steel products for automotive and industrial markets. Performance depends on steel demand, capacity utilization, and pricing dynamics."
+    },
+    {
+      "asset": "VALE3",
+      "company_name": "Vale S.A.",
+      "sector_screening": "Metais e Mineração",
+      "short_description": "Global mining company.",
+      "long_description": "Vale produces iron ore and base metals for global markets. Earnings depend on commodity prices, production volumes, logistics efficiency, and global steel demand."
+    },
+    {
+      "asset": "VAMO3",
+      "company_name": "Vamos Locação de Caminhões",
+      "sector_screening": "Infraestrutura",
+      "short_description": "Truck and equipment rental company.",
+      "long_description": "Vamos rents trucks and heavy equipment to logistics and industrial clients. Revenue depends on fleet utilization, contract duration, and demand for outsourced asset solutions."
+    },
+    {
+      "asset": "VBBR3",
+      "company_name": "Vibra Energia S.A.",
+      "sector_screening": "Petróleo",
+      "short_description": "Fuel distribution company.",
+      "long_description": "Vibra Energia operates fuel distribution and logistics networks. Performance depends on fuel volumes, distribution margins, logistics efficiency, and energy transition initiatives."
+    },
+    {
+      "asset": "VIVA3",
+      "company_name": "Vivara Participações S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Jewelry retail company.",
+      "long_description": "Vivara designs and sells jewelry through physical and online stores. Revenue depends on brand strength, consumer discretionary spending, and retail expansion."
+    },
+    {
+      "asset": "VIVT3",
+      "company_name": "Telefônica Brasil S.A.",
+      "sector_screening": "Telecom",
+      "short_description": "Telecommunications services provider.",
+      "long_description": "Telefônica Brasil provides mobile and fixed telecom services. Revenue depends on subscriber base, data usage growth, pricing strategy, and digital service offerings."
+    },
+    {
+      "asset": "VLID3",
+      "company_name": "Valid Soluções S.A.",
+      "sector_screening": "Tecnologia",
+      "short_description": "Secure identification and digital solutions provider.",
+      "long_description": "Valid provides identification, payment, and digital security solutions. Revenue depends on government contracts, technology adoption, and digital transformation."
+    },
+    {
+      "asset": "VULC3",
+      "company_name": "Vulcabras S.A.",
+      "sector_screening": "Varejo",
+      "short_description": "Sports footwear manufacturer.",
+      "long_description": "Vulcabras manufactures athletic footwear. Revenue depends on brand strength, sportswear demand, and retail distribution."
+    },
+    {
+      "asset": "VVEO3",
+      "company_name": "Viveo S.A.",
+      "sector_screening": "Saúde",
+      "short_description": "Healthcare products distribution company.",
+      "long_description": "Viveo distributes medical and hospital supplies. Earnings depend on healthcare demand, logistics efficiency, and expansion of distribution channels."
+    },
+    {
+      "asset": "WEGE3",
+      "company_name": "WEG S.A.",
+      "sector_screening": "Bens Industriais",
+      "short_description": "Industrial electrical equipment manufacturer.",
+      "long_description": "WEG manufactures electric motors, automation systems, and power equipment. Performance is driven by industrial investment, energy efficiency trends, and global diversification."
+    },
+    {
+      "asset": "XPBR31",
+      "company_name": "XP Inc. BDR",
+      "sector_screening": "Fintech e Investimentos",
+      "short_description": "Investment platform and financial services firm.",
+      "long_description": "XP operates an investment and wealth management platform. Revenue depends on assets under custody, capital market activity, and retail investor participation."
+    },
+    {
+      "asset": "YDUQ3",
+      "company_name": "Yduqs Participações S.A.",
+      "sector_screening": "Educação",
+      "short_description": "Higher education services provider.",
+      "long_description": "Yduqs operates universities and digital education platforms. Revenue depends on student enrollment, tuition pricing, distance learning adoption, and regulatory environment."
+    }
+  ]
+}

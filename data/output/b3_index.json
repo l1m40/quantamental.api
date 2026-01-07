@@ -1,0 +1,1997 @@
+{
+  "files_IBOV": ["/Users/belter/Moria backups/Durin/data/b3/IBOVDia_01-09-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBOVDia_02-01-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBOVDia_02-06-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBOVDia_05-05-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBOVDia_06-01-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBOVDia_06-05-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBOVDia_10-09-24.csv"],
+  "files_IBXL": ["/Users/belter/Moria backups/Durin/data/b3/IBXLDia_01-08-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXLDia_01-09-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXLDia_02-01-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXLDia_02-01-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXLDia_02-09-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXLDia_05-05-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXLDia_06-01-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXLDia_06-05-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXLDia_10-09-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXLDia_12-08-25.csv"],
+  "files_IBXX": ["/Users/belter/Moria backups/Durin/data/b3/IBXXDia_01-08-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXXDia_01-09-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXXDia_02-01-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXXDia_02-01-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXXDia_02-09-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXXDia_05-05-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXXDia_06-01-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXXDia_06-05-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBXXDia_10-09-24.csv"],
+  "files_IBBR": ["/Users/belter/Moria backups/Durin/data/b3/IBBRDia_01-09-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBBRDia_02-01-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBBRDia_02-09-24.csv", "/Users/belter/Moria backups/Durin/data/b3/IBBRDia_05-05-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBBRDia_06-01-25.csv", "/Users/belter/Moria backups/Durin/data/b3/IBBRDia_10-09-24.csv"],
+  "files_SMLL": "/Users/belter/Moria backups/Durin/data/b3/SMLLDia_01-09-25.csv",
+  "IBOV": [
+    {
+      "asset": "ALOS3",
+      "share": 0.524
+    },
+    {
+      "asset": "ABEV3",
+      "share": 2.471
+    },
+    {
+      "asset": "ASAI3",
+      "share": 0.662
+    },
+    {
+      "asset": "AURE3",
+      "share": 0.162
+    },
+    {
+      "asset": "AZZA3",
+      "share": 0.219
+    },
+    {
+      "asset": "B3SA3",
+      "share": 3.158
+    },
+    {
+      "asset": "BBSE3",
+      "share": 0.947
+    },
+    {
+      "asset": "BBDC3",
+      "share": 0.992
+    },
+    {
+      "asset": "BBDC4",
+      "share": 4.024
+    },
+    {
+      "asset": "BRAP4",
+      "share": 0.193
+    },
+    {
+      "asset": "BBAS3",
+      "share": 2.847
+    },
+    {
+      "asset": "BRKM5",
+      "share": 0.117
+    },
+    {
+      "asset": "BRAV3",
+      "share": 0.433
+    },
+    {
+      "asset": "BRFS3",
+      "share": 0.589
+    },
+    {
+      "asset": "BPAC11",
+      "share": 2.951
+    },
+    {
+      "asset": "CXSE3",
+      "share": 0.396
+    },
+    {
+      "asset": "CEAB3",
+      "share": 0.109
+    },
+    {
+      "asset": "CMIG4",
+      "share": 0.99
+    },
+    {
+      "asset": "COGN3",
+      "share": 0.248
+    },
+    {
+      "asset": "CPLE6",
+      "share": 0.941
+    },
+    {
+      "asset": "CSAN3",
+      "share": 0.314
+    },
+    {
+      "asset": "CPFE3",
+      "share": 0.346
+    },
+    {
+      "asset": "CMIN3",
+      "share": 0.401
+    },
+    {
+      "asset": "CURY3",
+      "share": 0.216
+    },
+    {
+      "asset": "CVCB3",
+      "share": 0.045
+    },
+    {
+      "asset": "CYRE3",
+      "share": 0.337
+    },
+    {
+      "asset": "DIRR3",
+      "share": 0.236
+    },
+    {
+      "asset": "ELET3",
+      "share": 3.841
+    },
+    {
+      "asset": "ELET6",
+      "share": 0.604
+    },
+    {
+      "asset": "EMBR3",
+      "share": 2.617
+    },
+    {
+      "asset": "ENGI11",
+      "share": 0.744
+    },
+    {
+      "asset": "ENEV3",
+      "share": 1.353
+    },
+    {
+      "asset": "EGIE3",
+      "share": 0.477
+    },
+    {
+      "asset": "EQTL3",
+      "share": 2.135
+    },
+    {
+      "asset": "FLRY3",
+      "share": 0.312
+    },
+    {
+      "asset": "GGBR4",
+      "share": 0.995
+    },
+    {
+      "asset": "GOAU4",
+      "share": 0.276
+    },
+    {
+      "asset": "HAPV3",
+      "share": 0.608
+    },
+    {
+      "asset": "HYPE3",
+      "share": 0.335
+    },
+    {
+      "asset": "IGTI11",
+      "share": 0.233
+    },
+    {
+      "asset": "IRBR3",
+      "share": 0.183
+    },
+    {
+      "asset": "ISAE4",
+      "share": 0.43
+    },
+    {
+      "asset": "ITSA4",
+      "share": 3.07
+    },
+    {
+      "asset": "ITUB4",
+      "share": 8.307
+    },
+    {
+      "asset": "KLBN11",
+      "share": 0.68
+    },
+    {
+      "asset": "RENT3",
+      "share": 1.64
+    },
+    {
+      "asset": "LREN3",
+      "share": 0.762
+    },
+    {
+      "asset": "MGLU3",
+      "share": 0.136
+    },
+    {
+      "asset": "POMO4",
+      "share": 0.287
+    },
+    {
+      "asset": "MRFG3",
+      "share": 0.22
+    },
+    {
+      "asset": "BEEF3",
+      "share": 0.122
+    },
+    {
+      "asset": "MOTV3",
+      "share": 0.667
+    },
+    {
+      "asset": "MRVE3",
+      "share": 0.133
+    },
+    {
+      "asset": "MULT3",
+      "share": 0.409
+    },
+    {
+      "asset": "NATU3",
+      "share": 0.355
+    },
+    {
+      "asset": "PCAR3",
+      "share": 0.073
+    },
+    {
+      "asset": "PETR3",
+      "share": 4.177
+    },
+    {
+      "asset": "PETR4",
+      "share": 6.423
+    },
+    {
+      "asset": "RECV3",
+      "share": 0.166
+    },
+    {
+      "asset": "PRIO3",
+      "share": 1.353
+    },
+    {
+      "asset": "PSSA3",
+      "share": 0.439
+    },
+    {
+      "asset": "RADL3",
+      "share": 1.056
+    },
+    {
+      "asset": "RAIZ4",
+      "share": 0.067
+    },
+    {
+      "asset": "RDOR3",
+      "share": 2.012
+    },
+    {
+      "asset": "RAIL3",
+      "share": 0.828
+    },
+    {
+      "asset": "SBSP3",
+      "share": 3.42
+    },
+    {
+      "asset": "SANB11",
+      "share": 0.476
+    },
+    {
+      "asset": "STBP3",
+      "share": 0.273
+    },
+    {
+      "asset": "CSNA3",
+      "share": 0.259
+    },
+    {
+      "asset": "SLCE3",
+      "share": 0.162
+    },
+    {
+      "asset": "SMFT3",
+      "share": 0.488
+    },
+    {
+      "asset": "SUZB3",
+      "share": 1.584
+    },
+    {
+      "asset": "TAEE11",
+      "share": 0.357
+    },
+    {
+      "asset": "VIVT3",
+      "share": 1.17
+    },
+    {
+      "asset": "TIMS3",
+      "share": 0.857
+    },
+    {
+      "asset": "TOTS3",
+      "share": 1.076
+    },
+    {
+      "asset": "UGPA3",
+      "share": 0.986
+    },
+    {
+      "asset": "USIM5",
+      "share": 0.094
+    },
+    {
+      "asset": "VALE3",
+      "share": 11.103
+    },
+    {
+      "asset": "VAMO3",
+      "share": 0.101
+    },
+    {
+      "asset": "VBBR3",
+      "share": 1.252
+    },
+    {
+      "asset": "VIVA3",
+      "share": 0.167
+    },
+    {
+      "asset": "WEGE3",
+      "share": 2.621
+    },
+    {
+      "asset": "YDUQ3",
+      "share": 0.161
+    }
+  ],
+  "IBXL": [
+    {
+      "asset": "ABEV3",
+      "share": 2.613
+    },
+    {
+      "asset": "ASAI3",
+      "share": 0.7
+    },
+    {
+      "asset": "B3SA3",
+      "share": 3.339
+    },
+    {
+      "asset": "BBSE3",
+      "share": 1.001
+    },
+    {
+      "asset": "BBDC3",
+      "share": 1.049
+    },
+    {
+      "asset": "BBDC4",
+      "share": 4.254
+    },
+    {
+      "asset": "BBAS3",
+      "share": 3.01
+    },
+    {
+      "asset": "BRAV3",
+      "share": 0.458
+    },
+    {
+      "asset": "BRFS3",
+      "share": 0.623
+    },
+    {
+      "asset": "BPAC11",
+      "share": 3.12
+    },
+    {
+      "asset": "CMIG4",
+      "share": 1.047
+    },
+    {
+      "asset": "COGN3",
+      "share": 0.262
+    },
+    {
+      "asset": "CPLE6",
+      "share": 0.995
+    },
+    {
+      "asset": "CSAN3",
+      "share": 0.332
+    },
+    {
+      "asset": "CYRE3",
+      "share": 0.356
+    },
+    {
+      "asset": "ELET3",
+      "share": 4.401
+    },
+    {
+      "asset": "EMBR3",
+      "share": 2.767
+    },
+    {
+      "asset": "ENGI11",
+      "share": 0.786
+    },
+    {
+      "asset": "ENEV3",
+      "share": 1.431
+    },
+    {
+      "asset": "EQTL3",
+      "share": 2.256
+    },
+    {
+      "asset": "GGBR4",
+      "share": 1.052
+    },
+    {
+      "asset": "HAPV3",
+      "share": 0.643
+    },
+    {
+      "asset": "HYPE3",
+      "share": 0.355
+    },
+    {
+      "asset": "ITSA4",
+      "share": 3.245
+    },
+    {
+      "asset": "ITUB4",
+      "share": 10.055
+    },
+    {
+      "asset": "KLBN11",
+      "share": 0.719
+    },
+    {
+      "asset": "RENT3",
+      "share": 1.733
+    },
+    {
+      "asset": "LREN3",
+      "share": 0.805
+    },
+    {
+      "asset": "MGLU3",
+      "share": 0.144
+    },
+    {
+      "asset": "POMO4",
+      "share": 0.304
+    },
+    {
+      "asset": "MRFG3",
+      "share": 0.233
+    },
+    {
+      "asset": "MOTV3",
+      "share": 0.705
+    },
+    {
+      "asset": "MULT3",
+      "share": 0.433
+    },
+    {
+      "asset": "NATU3",
+      "share": 0.374
+    },
+    {
+      "asset": "PETR3",
+      "share": 5.811
+    },
+    {
+      "asset": "PETR4",
+      "share": 6.791
+    },
+    {
+      "asset": "PRIO3",
+      "share": 1.43
+    },
+    {
+      "asset": "RADL3",
+      "share": 1.117
+    },
+    {
+      "asset": "RDOR3",
+      "share": 2.127
+    },
+    {
+      "asset": "RAIL3",
+      "share": 0.875
+    },
+    {
+      "asset": "SBSP3",
+      "share": 4.144
+    },
+    {
+      "asset": "CSNA3",
+      "share": 0.274
+    },
+    {
+      "asset": "SUZB3",
+      "share": 1.675
+    },
+    {
+      "asset": "VIVT3",
+      "share": 1.237
+    },
+    {
+      "asset": "TIMS3",
+      "share": 0.906
+    },
+    {
+      "asset": "TOTS3",
+      "share": 1.138
+    },
+    {
+      "asset": "UGPA3",
+      "share": 1.043
+    },
+    {
+      "asset": "VALE3",
+      "share": 11.738
+    },
+    {
+      "asset": "VBBR3",
+      "share": 1.324
+    },
+    {
+      "asset": "WEGE3",
+      "share": 2.77
+    }
+  ],
+  "IBXX": [
+    {
+      "asset": "ALOS3",
+      "share": 0.493
+    },
+    {
+      "asset": "ABEV3",
+      "share": 2.329
+    },
+    {
+      "asset": "ANIM3",
+      "share": 0.039
+    },
+    {
+      "asset": "ASAI3",
+      "share": 0.624
+    },
+    {
+      "asset": "AURE3",
+      "share": 0.153
+    },
+    {
+      "asset": "AZZA3",
+      "share": 0.207
+    },
+    {
+      "asset": "B3SA3",
+      "share": 2.977
+    },
+    {
+      "asset": "BBSE3",
+      "share": 0.892
+    },
+    {
+      "asset": "BBDC3",
+      "share": 0.935
+    },
+    {
+      "asset": "BBDC4",
+      "share": 3.793
+    },
+    {
+      "asset": "BRAP4",
+      "share": 0.181
+    },
+    {
+      "asset": "BBAS3",
+      "share": 2.683
+    },
+    {
+      "asset": "BRKM5",
+      "share": 0.11
+    },
+    {
+      "asset": "BRAV3",
+      "share": 0.409
+    },
+    {
+      "asset": "BRFS3",
+      "share": 0.555
+    },
+    {
+      "asset": "BPAC11",
+      "share": 2.781
+    },
+    {
+      "asset": "CXSE3",
+      "share": 0.374
+    },
+    {
+      "asset": "CEAB3",
+      "share": 0.103
+    },
+    {
+      "asset": "CMIG4",
+      "share": 0.934
+    },
+    {
+      "asset": "COGN3",
+      "share": 0.233
+    },
+    {
+      "asset": "CSMG3",
+      "share": 0.249
+    },
+    {
+      "asset": "CPLE3",
+      "share": 0.639
+    },
+    {
+      "asset": "CPLE6",
+      "share": 0.887
+    },
+    {
+      "asset": "CSAN3",
+      "share": 0.296
+    },
+    {
+      "asset": "CPFE3",
+      "share": 0.326
+    },
+    {
+      "asset": "CMIN3",
+      "share": 0.378
+    },
+    {
+      "asset": "CURY3",
+      "share": 0.204
+    },
+    {
+      "asset": "CVCB3",
+      "share": 0.042
+    },
+    {
+      "asset": "CYRE3",
+      "share": 0.318
+    },
+    {
+      "asset": "DIRR3",
+      "share": 0.222
+    },
+    {
+      "asset": "ECOR3",
+      "share": 0.118
+    },
+    {
+      "asset": "ELET3",
+      "share": 3.923
+    },
+    {
+      "asset": "ELET6",
+      "share": 0.57
+    },
+    {
+      "asset": "EMBR3",
+      "share": 2.467
+    },
+    {
+      "asset": "ENGI11",
+      "share": 0.701
+    },
+    {
+      "asset": "ENEV3",
+      "share": 1.275
+    },
+    {
+      "asset": "EGIE3",
+      "share": 0.45
+    },
+    {
+      "asset": "EQTL3",
+      "share": 2.012
+    },
+    {
+      "asset": "EZTC3",
+      "share": 0.063
+    },
+    {
+      "asset": "FLRY3",
+      "share": 0.294
+    },
+    {
+      "asset": "GGBR4",
+      "share": 0.938
+    },
+    {
+      "asset": "GOAU4",
+      "share": 0.26
+    },
+    {
+      "asset": "GGPS3",
+      "share": 0.298
+    },
+    {
+      "asset": "GMAT3",
+      "share": 0.148
+    },
+    {
+      "asset": "HAPV3",
+      "share": 0.573
+    },
+    {
+      "asset": "HYPE3",
+      "share": 0.316
+    },
+    {
+      "asset": "IGTI11",
+      "share": 0.219
+    },
+    {
+      "asset": "INTB3",
+      "share": 0.062
+    },
+    {
+      "asset": "IRBR3",
+      "share": 0.173
+    },
+    {
+      "asset": "ISAE4",
+      "share": 0.405
+    },
+    {
+      "asset": "ITSA4",
+      "share": 2.893
+    },
+    {
+      "asset": "ITUB4",
+      "share": 8.965
+    },
+    {
+      "asset": "KLBN11",
+      "share": 0.641
+    },
+    {
+      "asset": "RENT3",
+      "share": 1.545
+    },
+    {
+      "asset": "LREN3",
+      "share": 0.718
+    },
+    {
+      "asset": "LWSA3",
+      "share": 0.069
+    },
+    {
+      "asset": "MGLU3",
+      "share": 0.128
+    },
+    {
+      "asset": "POMO4",
+      "share": 0.271
+    },
+    {
+      "asset": "MRFG3",
+      "share": 0.207
+    },
+    {
+      "asset": "BEEF3",
+      "share": 0.115
+    },
+    {
+      "asset": "MOTV3",
+      "share": 0.629
+    },
+    {
+      "asset": "MOVI3",
+      "share": 0.038
+    },
+    {
+      "asset": "MRVE3",
+      "share": 0.126
+    },
+    {
+      "asset": "MULT3",
+      "share": 0.386
+    },
+    {
+      "asset": "NATU3",
+      "share": 0.334
+    },
+    {
+      "asset": "PCAR3",
+      "share": 0.069
+    },
+    {
+      "asset": "PETR3",
+      "share": 5.181
+    },
+    {
+      "asset": "PETR4",
+      "share": 6.054
+    },
+    {
+      "asset": "RECV3",
+      "share": 0.157
+    },
+    {
+      "asset": "PRIO3",
+      "share": 1.275
+    },
+    {
+      "asset": "PETZ3",
+      "share": 0.052
+    },
+    {
+      "asset": "PSSA3",
+      "share": 0.413
+    },
+    {
+      "asset": "RADL3",
+      "share": 0.996
+    },
+    {
+      "asset": "RAIZ4",
+      "share": 0.063
+    },
+    {
+      "asset": "RAPT4",
+      "share": 0.053
+    },
+    {
+      "asset": "RDOR3",
+      "share": 1.896
+    },
+    {
+      "asset": "RAIL3",
+      "share": 0.781
+    },
+    {
+      "asset": "SBSP3",
+      "share": 3.695
+    },
+    {
+      "asset": "SAPR11",
+      "share": 0.306
+    },
+    {
+      "asset": "SANB11",
+      "share": 0.449
+    },
+    {
+      "asset": "STBP3",
+      "share": 0.257
+    },
+    {
+      "asset": "SMTO3",
+      "share": 0.103
+    },
+    {
+      "asset": "SRNA3",
+      "share": 0.232
+    },
+    {
+      "asset": "CSNA3",
+      "share": 0.244
+    },
+    {
+      "asset": "SLCE3",
+      "share": 0.153
+    },
+    {
+      "asset": "SMFT3",
+      "share": 0.46
+    },
+    {
+      "asset": "SUZB3",
+      "share": 1.493
+    },
+    {
+      "asset": "TAEE11",
+      "share": 0.336
+    },
+    {
+      "asset": "VIVT3",
+      "share": 1.104
+    },
+    {
+      "asset": "TEND3",
+      "share": 0.123
+    },
+    {
+      "asset": "TIMS3",
+      "share": 0.808
+    },
+    {
+      "asset": "TOTS3",
+      "share": 1.014
+    },
+    {
+      "asset": "UGPA3",
+      "share": 0.93
+    },
+    {
+      "asset": "USIM5",
+      "share": 0.089
+    },
+    {
+      "asset": "VALE3",
+      "share": 10.464
+    },
+    {
+      "asset": "VAMO3",
+      "share": 0.095
+    },
+    {
+      "asset": "VBBR3",
+      "share": 1.18
+    },
+    {
+      "asset": "VIVA3",
+      "share": 0.158
+    },
+    {
+      "asset": "WEGE3",
+      "share": 2.47
+    },
+    {
+      "asset": "YDUQ3",
+      "share": 0.151
+    }
+  ],
+  "IBBR": [
+    {
+      "asset": "ALOS3",
+      "share": 0.381
+    },
+    {
+      "asset": "ABEV3",
+      "share": 1.799
+    },
+    {
+      "asset": "ASAI3",
+      "share": 0.482
+    },
+    {
+      "asset": "AURE3",
+      "share": 0.118
+    },
+    {
+      "asset": "AZZA3",
+      "share": 0.16
+    },
+    {
+      "asset": "B3SA3",
+      "share": 2.299
+    },
+    {
+      "asset": "BBSE3",
+      "share": 0.689
+    },
+    {
+      "asset": "BBDC3",
+      "share": 0.722
+    },
+    {
+      "asset": "BBDC4",
+      "share": 2.929
+    },
+    {
+      "asset": "BRAP4",
+      "share": 0.14
+    },
+    {
+      "asset": "BBAS3",
+      "share": 2.072
+    },
+    {
+      "asset": "BRKM5",
+      "share": 0.085
+    },
+    {
+      "asset": "BRAV3",
+      "share": 0.316
+    },
+    {
+      "asset": "BRFS3",
+      "share": 0.429
+    },
+    {
+      "asset": "BPAC11",
+      "share": 2.148
+    },
+    {
+      "asset": "CXSE3",
+      "share": 0.288
+    },
+    {
+      "asset": "CEAB3",
+      "share": 0.079
+    },
+    {
+      "asset": "CMIG4",
+      "share": 0.721
+    },
+    {
+      "asset": "COGN3",
+      "share": 0.18
+    },
+    {
+      "asset": "CPLE6",
+      "share": 0.685
+    },
+    {
+      "asset": "CSAN3",
+      "share": 0.229
+    },
+    {
+      "asset": "CPFE3",
+      "share": 0.252
+    },
+    {
+      "asset": "CMIN3",
+      "share": 0.292
+    },
+    {
+      "asset": "CURY3",
+      "share": 0.157
+    },
+    {
+      "asset": "CVCB3",
+      "share": 0.033
+    },
+    {
+      "asset": "CYRE3",
+      "share": 0.245
+    },
+    {
+      "asset": "DIRR3",
+      "share": 0.171
+    },
+    {
+      "asset": "ELET3",
+      "share": 3.03
+    },
+    {
+      "asset": "ELET6",
+      "share": 0.44
+    },
+    {
+      "asset": "EMBR3",
+      "share": 1.905
+    },
+    {
+      "asset": "ENGI11",
+      "share": 0.542
+    },
+    {
+      "asset": "ENEV3",
+      "share": 0.985
+    },
+    {
+      "asset": "EGIE3",
+      "share": 0.347
+    },
+    {
+      "asset": "EQTL3",
+      "share": 1.554
+    },
+    {
+      "asset": "FLRY3",
+      "share": 0.227
+    },
+    {
+      "asset": "GGBR4",
+      "share": 0.725
+    },
+    {
+      "asset": "GOAU4",
+      "share": 0.201
+    },
+    {
+      "asset": "HAPV3",
+      "share": 0.442
+    },
+    {
+      "asset": "HYPE3",
+      "share": 0.244
+    },
+    {
+      "asset": "IGTI11",
+      "share": 0.169
+    },
+    {
+      "asset": "INBR32",
+      "share": 0.507
+    },
+    {
+      "asset": "IRBR3",
+      "share": 0.133
+    },
+    {
+      "asset": "ISAE4",
+      "share": 0.313
+    },
+    {
+      "asset": "ITSA4",
+      "share": 2.235
+    },
+    {
+      "asset": "ITUB4",
+      "share": 6.923
+    },
+    {
+      "asset": "JBSS32",
+      "share": 2.422
+    },
+    {
+      "asset": "KLBN11",
+      "share": 0.495
+    },
+    {
+      "asset": "RENT3",
+      "share": 1.193
+    },
+    {
+      "asset": "LREN3",
+      "share": 0.554
+    },
+    {
+      "asset": "MGLU3",
+      "share": 0.099
+    },
+    {
+      "asset": "POMO4",
+      "share": 0.209
+    },
+    {
+      "asset": "MRFG3",
+      "share": 0.16
+    },
+    {
+      "asset": "MELI34",
+      "share": 9.093
+    },
+    {
+      "asset": "BEEF3",
+      "share": 0.09
+    },
+    {
+      "asset": "MOTV3",
+      "share": 0.485
+    },
+    {
+      "asset": "MRVE3",
+      "share": 0.097
+    },
+    {
+      "asset": "MULT3",
+      "share": 0.298
+    },
+    {
+      "asset": "NATU3",
+      "share": 0.258
+    },
+    {
+      "asset": "ROXO34",
+      "share": 10.256
+    },
+    {
+      "asset": "PCAR3",
+      "share": 0.053
+    },
+    {
+      "asset": "PAGS34",
+      "share": 0.308
+    },
+    {
+      "asset": "PETR3",
+      "share": 4.001
+    },
+    {
+      "asset": "PETR4",
+      "share": 4.675
+    },
+    {
+      "asset": "RECV3",
+      "share": 0.121
+    },
+    {
+      "asset": "PRIO3",
+      "share": 0.985
+    },
+    {
+      "asset": "PSSA3",
+      "share": 0.319
+    },
+    {
+      "asset": "RADL3",
+      "share": 0.769
+    },
+    {
+      "asset": "RAIZ4",
+      "share": 0.049
+    },
+    {
+      "asset": "RDOR3",
+      "share": 1.464
+    },
+    {
+      "asset": "RAIL3",
+      "share": 0.603
+    },
+    {
+      "asset": "SBSP3",
+      "share": 2.853
+    },
+    {
+      "asset": "SANB11",
+      "share": 0.347
+    },
+    {
+      "asset": "STBP3",
+      "share": 0.199
+    },
+    {
+      "asset": "CSNA3",
+      "share": 0.189
+    },
+    {
+      "asset": "SLCE3",
+      "share": 0.118
+    },
+    {
+      "asset": "SMFT3",
+      "share": 0.355
+    },
+    {
+      "asset": "STOC34",
+      "share": 0.775
+    },
+    {
+      "asset": "SUZB3",
+      "share": 1.153
+    },
+    {
+      "asset": "TAEE11",
+      "share": 0.26
+    },
+    {
+      "asset": "VIVT3",
+      "share": 0.852
+    },
+    {
+      "asset": "TIMS3",
+      "share": 0.624
+    },
+    {
+      "asset": "TOTS3",
+      "share": 0.783
+    },
+    {
+      "asset": "UGPA3",
+      "share": 0.718
+    },
+    {
+      "asset": "USIM5",
+      "share": 0.068
+    },
+    {
+      "asset": "VALE3",
+      "share": 8.082
+    },
+    {
+      "asset": "VAMO3",
+      "share": 0.074
+    },
+    {
+      "asset": "VBBR3",
+      "share": 0.912
+    },
+    {
+      "asset": "VIVA3",
+      "share": 0.122
+    },
+    {
+      "asset": "WEGE3",
+      "share": 1.907
+    },
+    {
+      "asset": "XPBR31",
+      "share": 1.413
+    },
+    {
+      "asset": "YDUQ3",
+      "share": 0.117
+    }
+  ],
+  "SMLL": [
+    {
+      "asset": "TTEN3",
+      "share": 0.507
+    },
+    {
+      "asset": "ABCB4",
+      "share": 0.508
+    },
+    {
+      "asset": "ALOS3",
+      "share": 3.441
+    },
+    {
+      "asset": "ALPA4",
+      "share": 0.387
+    },
+    {
+      "asset": "ALUP11",
+      "share": 1.445
+    },
+    {
+      "asset": "ANIM3",
+      "share": 0.266
+    },
+    {
+      "asset": "ARML3",
+      "share": 0.212
+    },
+    {
+      "asset": "ASAI3",
+      "share": 4.354
+    },
+    {
+      "asset": "AURE3",
+      "share": 1.064
+    },
+    {
+      "asset": "AMOB3",
+      "share": 0.042
+    },
+    {
+      "asset": "AZZA3",
+      "share": 1.441
+    },
+    {
+      "asset": "BPAN4",
+      "share": 0.645
+    },
+    {
+      "asset": "BRSR6",
+      "share": 0.716
+    },
+    {
+      "asset": "BMOB3",
+      "share": 0.486
+    },
+    {
+      "asset": "BLAU3",
+      "share": 0.118
+    },
+    {
+      "asset": "SOJA3",
+      "share": 0.181
+    },
+    {
+      "asset": "BRBI11",
+      "share": 0.242
+    },
+    {
+      "asset": "BRAP4",
+      "share": 1.265
+    },
+    {
+      "asset": "AGRO3",
+      "share": 0.416
+    },
+    {
+      "asset": "BRKM5",
+      "share": 0.767
+    },
+    {
+      "asset": "BRAV3",
+      "share": 2.85
+    },
+    {
+      "asset": "CAML3",
+      "share": 0.144
+    },
+    {
+      "asset": "BHIA3",
+      "share": 0.126
+    },
+    {
+      "asset": "CBAV3",
+      "share": 0.222
+    },
+    {
+      "asset": "CEAB3",
+      "share": 0.716
+    },
+    {
+      "asset": "COGN3",
+      "share": 1.627
+    },
+    {
+      "asset": "CSMG3",
+      "share": 1.734
+    },
+    {
+      "asset": "CSAN3",
+      "share": 2.067
+    },
+    {
+      "asset": "CURY3",
+      "share": 1.421
+    },
+    {
+      "asset": "CVCB3",
+      "share": 0.295
+    },
+    {
+      "asset": "CYRE3",
+      "share": 2.216
+    },
+    {
+      "asset": "DXCO3",
+      "share": 0.531
+    },
+    {
+      "asset": "PNVL3",
+      "share": 0.224
+    },
+    {
+      "asset": "DIRR3",
+      "share": 1.549
+    },
+    {
+      "asset": "ECOR3",
+      "share": 0.821
+    },
+    {
+      "asset": "EVEN3",
+      "share": 0.444
+    },
+    {
+      "asset": "EZTC3",
+      "share": 0.437
+    },
+    {
+      "asset": "FESA4",
+      "share": 0.318
+    },
+    {
+      "asset": "FLRY3",
+      "share": 2.05
+    },
+    {
+      "asset": "FRAS3",
+      "share": 0.768
+    },
+    {
+      "asset": "GFSA3",
+      "share": 0.046
+    },
+    {
+      "asset": "GOAU4",
+      "share": 1.814
+    },
+    {
+      "asset": "GGPS3",
+      "share": 2.08
+    },
+    {
+      "asset": "GRND3",
+      "share": 0.448
+    },
+    {
+      "asset": "SBFG3",
+      "share": 0.46
+    },
+    {
+      "asset": "GUAR3",
+      "share": 0.239
+    },
+    {
+      "asset": "HBSA3",
+      "share": 0.732
+    },
+    {
+      "asset": "HYPE3",
+      "share": 2.205
+    },
+    {
+      "asset": "IGTI11",
+      "share": 1.528
+    },
+    {
+      "asset": "INTB3",
+      "share": 0.436
+    },
+    {
+      "asset": "MYPK3",
+      "share": 0.569
+    },
+    {
+      "asset": "RANI3",
+      "share": 0.247
+    },
+    {
+      "asset": "IRBR3",
+      "share": 1.205
+    },
+    {
+      "asset": "JALL3",
+      "share": 0.088
+    },
+    {
+      "asset": "JHSF3",
+      "share": 0.49
+    },
+    {
+      "asset": "JSLG3",
+      "share": 0.11
+    },
+    {
+      "asset": "KEPL3",
+      "share": 0.424
+    },
+    {
+      "asset": "LAVV3",
+      "share": 0.295
+    },
+    {
+      "asset": "LOGG3",
+      "share": 0.33
+    },
+    {
+      "asset": "LREN3",
+      "share": 5.007
+    },
+    {
+      "asset": "LWSA3",
+      "share": 0.479
+    },
+    {
+      "asset": "MDIA3",
+      "share": 0.593
+    },
+    {
+      "asset": "MGLU3",
+      "share": 0.896
+    },
+    {
+      "asset": "POMO4",
+      "share": 1.888
+    },
+    {
+      "asset": "CASH3",
+      "share": 0.134
+    },
+    {
+      "asset": "LEVE3",
+      "share": 0.455
+    },
+    {
+      "asset": "MILS3",
+      "share": 0.349
+    },
+    {
+      "asset": "BEEF3",
+      "share": 0.805
+    },
+    {
+      "asset": "MDNE3",
+      "share": 0.416
+    },
+    {
+      "asset": "MOVI3",
+      "share": 0.266
+    },
+    {
+      "asset": "MRVE3",
+      "share": 0.877
+    },
+    {
+      "asset": "MLAS3",
+      "share": 0.123
+    },
+    {
+      "asset": "MULT3",
+      "share": 2.692
+    },
+    {
+      "asset": "NATU3",
+      "share": 2.328
+    },
+    {
+      "asset": "ODPV3",
+      "share": 1.022
+    },
+    {
+      "asset": "ONCO3",
+      "share": 0.477
+    },
+    {
+      "asset": "ORVR3",
+      "share": 0.905
+    },
+    {
+      "asset": "PCAR3",
+      "share": 0.479
+    },
+    {
+      "asset": "PGMN3",
+      "share": 0.205
+    },
+    {
+      "asset": "RECV3",
+      "share": 1.093
+    },
+    {
+      "asset": "PETZ3",
+      "share": 0.366
+    },
+    {
+      "asset": "PLPL3",
+      "share": 0.242
+    },
+    {
+      "asset": "POSI3",
+      "share": 0.1
+    },
+    {
+      "asset": "PRNR3",
+      "share": 0.263
+    },
+    {
+      "asset": "QUAL3",
+      "share": 0.161
+    },
+    {
+      "asset": "LJQQ3",
+      "share": 0.154
+    },
+    {
+      "asset": "RAIZ4",
+      "share": 0.442
+    },
+    {
+      "asset": "RAPT4",
+      "share": 0.367
+    },
+    {
+      "asset": "RCSL3",
+      "share": 0.001
+    },
+    {
+      "asset": "RCSL4",
+      "share": 0.007
+    },
+    {
+      "asset": "SAPR11",
+      "share": 2.135
+    },
+    {
+      "asset": "STBP3",
+      "share": 1.793
+    },
+    {
+      "asset": "SMTO3",
+      "share": 0.718
+    },
+    {
+      "asset": "SEER3",
+      "share": 0.138
+    },
+    {
+      "asset": "SRNA3",
+      "share": 1.623
+    },
+    {
+      "asset": "CSNA3",
+      "share": 1.705
+    },
+    {
+      "asset": "SIMH3",
+      "share": 0.35
+    },
+    {
+      "asset": "SLCE3",
+      "share": 1.065
+    },
+    {
+      "asset": "SMFT3",
+      "share": 3.209
+    },
+    {
+      "asset": "SYNE3",
+      "share": 0.121
+    },
+    {
+      "asset": "TAEE11",
+      "share": 2.346
+    },
+    {
+      "asset": "TGMA3",
+      "share": 0.36
+    },
+    {
+      "asset": "TEND3",
+      "share": 0.856
+    },
+    {
+      "asset": "TFCO4",
+      "share": 0.239
+    },
+    {
+      "asset": "TUPY3",
+      "share": 0.58
+    },
+    {
+      "asset": "UNIP6",
+      "share": 0.988
+    },
+    {
+      "asset": "USIM5",
+      "share": 0.617
+    },
+    {
+      "asset": "VLID3",
+      "share": 0.486
+    },
+    {
+      "asset": "VAMO3",
+      "share": 0.664
+    },
+    {
+      "asset": "VIVA3",
+      "share": 1.099
+    },
+    {
+      "asset": "VVEO3",
+      "share": 0.053
+    },
+    {
+      "asset": "VULC3",
+      "share": 0.616
+    },
+    {
+      "asset": "PORT3",
+      "share": 0.783
+    },
+    {
+      "asset": "YDUQ3",
+      "share": 1.055
+    }
+  ],
+  "IBOV_60": [
+    {
+      "asset": "VALE3",
+      "share.IBOV": 11.103
+    },
+    {
+      "asset": "ITUB4",
+      "share.IBOV": 8.307
+    },
+    {
+      "asset": "PETR4",
+      "share.IBOV": 6.423
+    },
+    {
+      "asset": "PETR3",
+      "share.IBOV": 4.177
+    },
+    {
+      "asset": "BBDC4",
+      "share.IBOV": 4.024
+    },
+    {
+      "asset": "ELET3",
+      "share.IBOV": 3.841
+    },
+    {
+      "asset": "SBSP3",
+      "share.IBOV": 3.42
+    },
+    {
+      "asset": "B3SA3",
+      "share.IBOV": 3.158
+    },
+    {
+      "asset": "ITSA4",
+      "share.IBOV": 3.07
+    },
+    {
+      "asset": "BPAC11",
+      "share.IBOV": 2.951
+    },
+    {
+      "asset": "BBAS3",
+      "share.IBOV": 2.847
+    },
+    {
+      "asset": "WEGE3",
+      "share.IBOV": 2.621
+    },
+    {
+      "asset": "EMBR3",
+      "share.IBOV": 2.617
+    }
+  ],
+  "IBOV_90": [
+    {
+      "asset": "VALE3",
+      "share.IBOV": 11.103
+    },
+    {
+      "asset": "ITUB4",
+      "share.IBOV": 8.307
+    },
+    {
+      "asset": "PETR4",
+      "share.IBOV": 6.423
+    },
+    {
+      "asset": "PETR3",
+      "share.IBOV": 4.177
+    },
+    {
+      "asset": "BBDC4",
+      "share.IBOV": 4.024
+    },
+    {
+      "asset": "ELET3",
+      "share.IBOV": 3.841
+    },
+    {
+      "asset": "SBSP3",
+      "share.IBOV": 3.42
+    },
+    {
+      "asset": "B3SA3",
+      "share.IBOV": 3.158
+    },
+    {
+      "asset": "ITSA4",
+      "share.IBOV": 3.07
+    },
+    {
+      "asset": "BPAC11",
+      "share.IBOV": 2.951
+    },
+    {
+      "asset": "BBAS3",
+      "share.IBOV": 2.847
+    },
+    {
+      "asset": "WEGE3",
+      "share.IBOV": 2.621
+    },
+    {
+      "asset": "EMBR3",
+      "share.IBOV": 2.617
+    },
+    {
+      "asset": "ABEV3",
+      "share.IBOV": 2.471
+    },
+    {
+      "asset": "EQTL3",
+      "share.IBOV": 2.135
+    },
+    {
+      "asset": "RDOR3",
+      "share.IBOV": 2.012
+    },
+    {
+      "asset": "RENT3",
+      "share.IBOV": 1.64
+    },
+    {
+      "asset": "SUZB3",
+      "share.IBOV": 1.584
+    },
+    {
+      "asset": "ENEV3",
+      "share.IBOV": 1.353
+    },
+    {
+      "asset": "PRIO3",
+      "share.IBOV": 1.353
+    },
+    {
+      "asset": "VBBR3",
+      "share.IBOV": 1.252
+    },
+    {
+      "asset": "VIVT3",
+      "share.IBOV": 1.17
+    },
+    {
+      "asset": "TOTS3",
+      "share.IBOV": 1.076
+    },
+    {
+      "asset": "RADL3",
+      "share.IBOV": 1.056
+    },
+    {
+      "asset": "GGBR4",
+      "share.IBOV": 0.995
+    },
+    {
+      "asset": "BBDC3",
+      "share.IBOV": 0.992
+    },
+    {
+      "asset": "CMIG4",
+      "share.IBOV": 0.99
+    },
+    {
+      "asset": "UGPA3",
+      "share.IBOV": 0.986
+    },
+    {
+      "asset": "BBSE3",
+      "share.IBOV": 0.947
+    },
+    {
+      "asset": "CPLE6",
+      "share.IBOV": 0.941
+    },
+    {
+      "asset": "TIMS3",
+      "share.IBOV": 0.857
+    },
+    {
+      "asset": "RAIL3",
+      "share.IBOV": 0.828
+    },
+    {
+      "asset": "LREN3",
+      "share.IBOV": 0.762
+    },
+    {
+      "asset": "ENGI11",
+      "share.IBOV": 0.744
+    },
+    {
+      "asset": "KLBN11",
+      "share.IBOV": 0.68
+    },
+    {
+      "asset": "MOTV3",
+      "share.IBOV": 0.667
+    },
+    {
+      "asset": "ASAI3",
+      "share.IBOV": 0.662
+    },
+    {
+      "asset": "HAPV3",
+      "share.IBOV": 0.608
+    },
+    {
+      "asset": "ELET6",
+      "share.IBOV": 0.604
+    },
+    {
+      "asset": "BRFS3",
+      "share.IBOV": 0.589
+    },
+    {
+      "asset": "ALOS3",
+      "share.IBOV": 0.524
+    },
+    {
+      "asset": "SMFT3",
+      "share.IBOV": 0.488
+    }
+  ]
+}
