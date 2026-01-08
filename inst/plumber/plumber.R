@@ -12,8 +12,10 @@ if(F){
   devtools::document()
   # devtools::load_all()
   # api_key_local_bypass <- 'not'
-
+  # raise the service
   plumber::plumb("inst/plumber/plumber.R")$run(port = 8000)
+  # test the service with authentication
+  # $ curl -H "X-API-Key: local-test-key" http://localhost:8000/v1/assets
 
 
 
@@ -41,6 +43,10 @@ library(quantamental.data)
 function(req, res) {
   # Allow unauthenticated health checks
   if (identical(req$PATH_INFO, "/health")) {
+    return(forward())
+  }
+  # Workaround for Google Sheets
+  if (identical(req$PATH_INFO, "/fundamentals.auth")) {
     return(forward())
   }
   api_key_required <- Sys.getenv("QUANTAMENTAL_API_KEY", unset = NA)
@@ -97,8 +103,6 @@ function(req, res, asset_input) {
   stopifnot(!missing(asset_input))
   quantamental.data::read_asset_fundamentals(asset_input)
 }
-
-
 #* Get asset fundamentals
 #*
 #* @param asset_input Ticker
@@ -107,6 +111,19 @@ function(req, res, asset_input) {
 #* @serializer csv
 function(req, res, asset_input) {
   stopifnot(!missing(asset_input))
+  quantamental.data::read_asset_fundamentals(asset_input)
+}
+#* Get asset fundamentals
+#*
+#* @param asset_input Ticker
+#* @param auth Authentication workaround
+#*
+#* @get /v1/fundamentals.auth
+#* @serializer csv
+function(req, res, asset_input, auth) {
+  stopifnot(!missing(asset_input))
+  stopifnot(!missing(auth))
+  stopifnot(auth=="quantamental")
   quantamental.data::read_asset_fundamentals(asset_input)
 }
 
