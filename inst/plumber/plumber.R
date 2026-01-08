@@ -8,8 +8,10 @@ if(F){
   renv::snapshot()
 
 
+  # Init from local environment
   devtools::document()
   # devtools::load_all()
+  # api_key_local_bypass <- 'not'
 
   plumber::plumb("inst/plumber/plumber.R")$run(port = 8000)
 
@@ -29,10 +31,46 @@ if(F){
 library(plumber)
 library(quantamental.data)
 
+
+
+
+
+
+# ---- API key authentication filter ----
+#* @filter auth
+function(req, res) {
+  # Allow unauthenticated health checks
+  if (identical(req$PATH_INFO, "/health")) {
+    return(forward())
+  }
+  api_key_required <- Sys.getenv("QUANTAMENTAL_API_KEY", unset = NA)
+  if (is.na(api_key_required) || api_key_required == "") {
+    res$status <- 500
+    return(list(error = "API key not configured on server"))
+  }
+  api_key_provided <- req$HTTP_X_API_KEY
+  if (exists("api_key_local_bypass")) { api_key_provided <- api_key_required ; warning("API key bypass") }
+  if (is.null(api_key_provided) || api_key_provided != api_key_required) {
+    res$status <- 401
+    return(list(error = "Unauthorized"))
+  }
+  forward()
+}
+
+
+
+
+
+
+
+
+
+
+
 #* Health check
 #* @get /health
 function() {
-  list(status = "ok", path=quantamental.data::get_data_root_path())
+  list(status = "ok", authentication="other endpoints by API-Key")
 }
 
 #* List assets
