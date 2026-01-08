@@ -3,6 +3,12 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
+# Deploy to Fly.io
+#
+# 0. Push all changes to git
+# 1. flyctl deploy
+# 2. flyctl logs
+
 app = 'quantamental-api'
 primary_region = 'gru'
 

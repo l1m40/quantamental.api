@@ -4,6 +4,9 @@ if(F){
 
   # Reinstall the DAL when code changes
   renv::install("l1m40/quantamental.data")
+  # update renv.lock with all packages used in this project
+  renv::snapshot()
+
 
   devtools::document()
   # devtools::load_all()
