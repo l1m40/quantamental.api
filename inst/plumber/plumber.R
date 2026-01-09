@@ -44,7 +44,7 @@ library(plumber)
 
 
 
-# ---- API key authentication filter ----
+# API key authentication filter ################################################
 #* @filter auth
 function(req, res) {
   # Allow unauthenticated health checks

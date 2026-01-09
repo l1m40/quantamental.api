@@ -14,7 +14,9 @@
 
 # Create and manage a Fly Volume
 #
-# 1. flyctl volumes create quantamental_data --region gru --size 10 --app quantamental-api -n 1
+# 1. fly volumes create quantamental_data --region gru --size 10 --app quantamental-api
+# 2. fly machine clone 90807565a75d68 --region gru --attach-volume vol_r1lxpo1ogjx9n0w4:/data/quantamental
+
 # 2. flyctl ssh console
 #    $ mkdir -p /data/quantamental
 #    $ ls -lah /data
@@ -47,7 +49,7 @@ primary_region = 'gru'
 [http_service]
   internal_port = 8080
   force_https = true
-  auto_stop_machines = false
+  auto_stop_machines = true
   auto_start_machines = true
   min_machines_running = 1
   processes = ['app']
