@@ -18,20 +18,24 @@ if(F){
   # $ curl -H "X-API-Key: local-test-key" http://localhost:8000/v1/assets
 
 
-
+  quantamental.data::read_ontology() |> summary()
 
 
   quantamental.data::get_data_mart_path()
 
-  Sys.setenv(DURIN_DATA = "/Users/belter/Projects/gaivota/data")
+
 
 
 }
 
 # inst/plumber/plumber.R
 
+#* @apiTitle Quantamental Data API
+#* @apiDescription Quantamental Data API
+#* @apiVersion v0
+
 library(plumber)
-library(quantamental.data)
+# library(quantamental.data)
 
 
 
@@ -46,7 +50,7 @@ function(req, res) {
     return(forward())
   }
   # Workaround for Google Sheets
-  if (identical(req$PATH_INFO, "/fundamentals.auth")) {
+  if (identical(req$PATH_INFO, "/v1/fundamentals.auth")) {
     return(forward())
   }
   api_key_required <- Sys.getenv("QUANTAMENTAL_API_KEY", unset = NA)
@@ -82,7 +86,7 @@ function() {
 #* List assets
 #* @get /v1/assets
 function() {
-  quantamental.data::get_ontology()$assets
+  quantamental.data::read_ontology()$assets
 }
 
 
