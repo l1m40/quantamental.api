@@ -26,6 +26,14 @@
 #
 #
 
+# flyctl machine run . \
+#   --app quantamental-api \
+#   --region gru \
+#   --volume quantamental_data:/data/quantamental \
+#   --port 8080 \
+#   --vm-cpus 1 \
+#   --vm-memory 1024
+
 
 
 
@@ -56,7 +64,7 @@ primary_region = 'gru'
   cpus = 1
   memory_mb = 1024
 
-[[mounts]]
-  source = "quantamental_data"
-  destination = "/data/quantamental"
+#[[mounts]]
+#  source = "quantamental_data"
+#  destination = "/data/quantamental"
 
