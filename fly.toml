@@ -34,6 +34,7 @@
 #   --vm-cpus 1 \
 #   --vm-memory 1024
 
+# flyctl machine update 90807565a75d68 --volume quantamental_data:/data/quantamental
 
 
 
@@ -46,7 +47,7 @@ primary_region = 'gru'
 [http_service]
   internal_port = 8080
   force_https = true
-  auto_stop_machines = 'stop'
+  auto_stop_machines = false
   auto_start_machines = true
   min_machines_running = 1
   processes = ['app']
