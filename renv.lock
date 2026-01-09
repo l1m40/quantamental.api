@@ -2498,7 +2498,7 @@
       "RemoteUsername": "l1m40",
       "RemoteRepo": "quantamental.data",
       "RemoteRef": "main",
-      "RemoteSha": "936cd6d36cb53d3bea9ff28550c380e7e0182889"
+      "RemoteSha": "ce6e8fa17ccaa500db0eca1d9c1de6a0deeba6b1"
     },
     "ragg": {
       "Package": "ragg",

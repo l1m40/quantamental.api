@@ -2,13 +2,14 @@
 
 if(F){
 
-  # Reinstall the DAL when code changes
+  # Reinstall the DAL when code changes ########################################
   renv::install("l1m40/quantamental.data")
   # update renv.lock with all packages used in this project
   renv::snapshot()
+  renv::status()
 
 
-  # Init from local environment
+  # Init from local environment ################################################
   devtools::document()
   # devtools::load_all()
   # api_key_local_bypass <- 'not'
@@ -18,6 +19,7 @@ if(F){
   # $ curl -H "X-API-Key: local-test-key" http://localhost:8000/v1/assets
 
 
+  quantamental.data::snapshot_check()
   quantamental.data::read_ontology() |> summary()
 
 
@@ -80,7 +82,10 @@ function(req, res) {
 #* Health check
 #* @get /health
 function() {
-  list(status = "ok", authentication="other endpoints by API-Key")
+  list(
+    status = "ok",
+    data = ifelse(quantamental.data::snapshot_check(),"package","data lake"),
+    authentication="other endpoints by API-Key")
 }
 
 #* List assets
