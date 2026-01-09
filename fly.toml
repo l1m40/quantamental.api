@@ -14,7 +14,7 @@
 
 # Create and manage a Fly Volume
 #
-# 1. flyctl volumes create quantamental_data --region gru --size 10 --app quantamental-api
+# 1. flyctl volumes create quantamental_data --region gru --size 10 --app quantamental-api -n 1
 # 2. flyctl ssh console
 #    $ mkdir -p /data/quantamental
 #    $ ls -lah /data
