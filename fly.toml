@@ -14,9 +14,12 @@
 
 # Create and manage a Fly Volume
 #
-# flyctl volumes create quantamental_data --region gru --size 10
-# flyctl ssh console
-# $ ls -lah /data
+# 1. flyctl volumes create quantamental_data --region gru --size 10 --app quantamental-api
+# 2. flyctl ssh console
+#    $ mkdir -p /data/quantamental
+#    $ ls -lah /data
+# 3. update fly.toml mounts
+# 4. flyctl deploy
 #
 # Rsync from local folder
 # rsync -av --delete ../quantamental.data/inst/extdata/ fly@$(flyctl ips list --json | jq -r '.[0].Address'):/data/quantamental/
@@ -37,7 +40,7 @@ primary_region = 'gru'
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true
-  min_machines_running = 0
+  min_machines_running = 1
   processes = ['app']
 
   [[http_service.checks]]
